@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Fırın",
+    "en": "Bakery",
+    "ar": "المخبز"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 1,
+  "icon": "bakery_dining",
+  "desing": {
+    "header": [],
+    "body": [
+      "e9m0ux",
+      "ghuk1m"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Fırın, kahvaltı ve tatlı rafları; misafir notları (kurgusal).",
+    "en": "Bakery, breakfast and sweet shelves; guest notes (fictional).",
+    "ar": "رفوف المخبز والفطور والحلويات؛ ملاحظات الضيوف (افتراضية)."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Fırın",
+    "en": "Bakery",
+    "ar": "المخبز"
+  },
+  "keyword": {
+    "tr": "fırın, galeri",
+    "en": "bakery, gallery",
+    "ar": "مخبز، معرض"
+  },
+  "text": {},
+  "update": "2026-11-16T20:42:12.646Z",
+  "date": "2026-10-30"
+}

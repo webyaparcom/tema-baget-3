@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "id": "c5xf941ao0",
+      "name": {
+        "tr": "Menü",
+        "en": "Menu",
+        "ar": "القائمة"
+      },
+      "description": {
+        "tr": "Baget tahtası, boy seçimi ve örnek fiyatlar.",
+        "en": "Baguette board, size choice and example prices.",
+        "ar": "لوح الباغيت واختيار الحجم والأسعار النموذجية."
+      },
+      "path": "hizmetler",
+      "icon": "restaurant_menu",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "nrfd2v",
+          "u0uiwl",
+          "vbnbds"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "name": {
+        "tr": "Fırın",
+        "en": "Bakery",
+        "ar": "المخبز"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 1,
+      "icon": "bakery_dining",
+      "desing": {
+        "header": [],
+        "body": [
+          "e9m0ux",
+          "ghuk1m"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Fırın, kahvaltı ve tatlı rafları; misafir notları (kurgusal).",
+        "en": "Bakery, breakfast and sweet shelves; guest notes (fictional).",
+        "ar": "رفوف المخبز والفطور والحلويات؛ ملاحظات الضيوف (افتراضية)."
+      }
+    },
+    {
+      "id": "ar11yup990",
+      "name": {
+        "tr": "SSS",
+        "en": "FAQ",
+        "ar": "الأسئلة"
+      },
+      "description": {
+        "tr": "Merak edilenler ve kısa yanıtlar.",
+        "en": "Common questions and short answers.",
+        "ar": "أسئلة متكررة وإجابات موجزة."
+      },
+      "path": "sorular",
+      "icon": "help",
+      "category": "hakkimizda",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "doh6yc",
+          "vbnbds"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "okenzplhe7",
+      "name": {
+        "tr": "Gel-al",
+        "en": "Pick-up",
+        "ar": "الاستلام"
+      },
+      "description": {
+        "tr": "Gün ve saat çarkıyla gel-al siparişi (demo).",
+        "en": "Pick-up order with day and time wheels (demo).",
+        "ar": "طلب استلام بعجلتي اليوم والساعة (تجريبي)."
+      },
+      "path": "teklif-al",
+      "icon": "shopping_bag",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "h8s4mb"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 4,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "gbkx2j",
+          "k8mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, fırın saatleri ve harita.",
+        "en": "Address, bakery hours and map.",
+        "ar": "العنوان وساعات المخبز والخريطة."
+      }
+    }
+  ],
+  "desc": []
+}

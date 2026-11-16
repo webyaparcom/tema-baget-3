@@ -1,0 +1,39 @@
+{
+  "id": "okenzplhe7",
+  "name": {
+    "tr": "Gel-al",
+    "en": "Pick-up",
+    "ar": "الاستلام"
+  },
+  "description": {
+    "tr": "Gün ve saat çarkıyla gel-al siparişi (demo).",
+    "en": "Pick-up order with day and time wheels (demo).",
+    "ar": "طلب استلام بعجلتي اليوم والساعة (تجريبي)."
+  },
+  "keyword": {
+    "tr": "gel-al, sipariş",
+    "en": "pick-up, order",
+    "ar": "استلام، طلب"
+  },
+  "path": "teklif-al",
+  "icon": "shopping_bag",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "h8s4mb"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Gel-al",
+    "en": "Pick-up",
+    "ar": "الاستلام"
+  },
+  "date": "2026-11-16T20:25:22.784Z",
+  "update": "2026-11-16T20:42:12.655Z"
+}
