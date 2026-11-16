@@ -1,0 +1,40 @@
+{
+  "id": "ar11yup990",
+  "name": {
+    "tr": "SSS",
+    "en": "FAQ",
+    "ar": "الأسئلة"
+  },
+  "description": {
+    "tr": "Merak edilenler ve kısa yanıtlar.",
+    "en": "Common questions and short answers.",
+    "ar": "أسئلة متكررة وإجابات موجزة."
+  },
+  "keyword": {
+    "tr": "sss, soru cevap",
+    "en": "faq, questions",
+    "ar": "أسئلة وأجوبة"
+  },
+  "path": "sorular",
+  "icon": "help",
+  "category": "hakkimizda",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "doh6yc",
+      "vbnbds"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "SSS",
+    "en": "FAQ",
+    "ar": "الأسئلة"
+  },
+  "date": "2026-11-16T20:25:22.778Z",
+  "update": "2026-11-16T20:42:12.651Z"
+}

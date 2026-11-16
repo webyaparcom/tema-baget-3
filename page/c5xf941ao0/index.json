@@ -1,0 +1,41 @@
+{
+  "id": "c5xf941ao0",
+  "name": {
+    "tr": "Menü",
+    "en": "Menu",
+    "ar": "القائمة"
+  },
+  "description": {
+    "tr": "Baget tahtası, boy seçimi ve örnek fiyatlar.",
+    "en": "Baguette board, size choice and example prices.",
+    "ar": "لوح الباغيت واختيار الحجم والأسعار النموذجية."
+  },
+  "keyword": {
+    "tr": "baget, sandviç, fiyat",
+    "en": "baguette, sandwich, price",
+    "ar": "باغيت، سندويش، سعر"
+  },
+  "path": "hizmetler",
+  "icon": "restaurant_menu",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "nrfd2v",
+      "u0uiwl",
+      "vbnbds"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Menü",
+    "en": "Menu",
+    "ar": "القائمة"
+  },
+  "date": "2026-11-16T20:25:22.763Z",
+  "update": "2026-11-16T20:42:12.641Z"
+}

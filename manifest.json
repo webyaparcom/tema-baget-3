@@ -1,0 +1,29 @@
+{
+  "name": "Kabuk Baget",
+  "short_name": "Kabuk Baget",
+  "description": "Kabuk Baget: Şehitkamil'de taş fırın baget ve katman katman sandviç; yarım, tam ya da paylaşım boyu, gel-al saati WhatsApp'tan. Demo site; içerik kurgusaldır.",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B66BA",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

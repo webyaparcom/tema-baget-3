@@ -1,0 +1,46 @@
+{
+  "id": "misyon",
+  "name": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "المهمة"
+  },
+  "description": {
+    "tr": "Misyonumuz",
+    "en": "Our mission",
+    "ar": "مهمتنا"
+  },
+  "keyword": {
+    "tr": "Misyon",
+    "en": "mission, our mission, corporate responsibility",
+    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية"
+  },
+  "path": "misyon",
+  "icon": "flag",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {
+    "tr": "<h2>Misyonumuz</h2>\n<p>Gece yoğrulan hamuru sabah sıcak bir sandvice dönüştürüp sırasız teslim etmek.</p>",
+    "en": "<h2>Our mission</h2>\n<p>To turn overnight dough into a warm morning sandwich and hand it over without a queue.</p>",
+    "ar": "<h2>مهمتنا</h2>\n<p>تحويل العجين المعجون ليلًا إلى سندويش صباحي دافئ وتسليمه دون طابور.</p>"
+  },
+  "title": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "المهمة"
+  },
+  "date": "2026-11-16T20:25:22.602Z",
+  "update": "2026-11-16T20:42:12.663Z",
+  "sablonIzi": "a8a6ac234dced5af",
+  "sablonIziDil": {
+    "en": "3f5f6c628dec679f",
+    "ar": "c861990d3945ecd7"
+  }
+}

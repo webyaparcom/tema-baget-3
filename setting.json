@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Kabuk Baget: Şehitkamil'de taş fırın baget ve katman katman sandviç; yarım, tam ya da paylaşım boyu, gel-al saati WhatsApp'tan. Demo site; içerik kurgusaldır.",
+    "en": "Kabuk Baget: stone-oven baguettes and layered sandwiches in Sehitkamil; half, full or sharing size, with pick-up times booked on WhatsApp. Demo site; content is fictional.",
+    "ar": "كابوك باغيت: باغيت من الفرن الحجري وسندويشات بطبقات في شهيد كامل؛ نصف أو كامل أو حجم للمشاركة، مع حجز وقت الاستلام عبر واتساب. موقع تجريبي؛ المحتوى افتراضي."
+  },
+  "keyword": {
+    "tr": "baget, sandviç, taş fırın, gel-al, kahvaltı, Gaziantep",
+    "en": "baguette, sandwich, stone oven, pick-up, breakfast, Gaziantep",
+    "ar": "باغيت، سندويش، فرن حجري، استلام، فطور، غازي عنتاب"
+  },
+  "category": "Kurumsal",
+  "name": "Kabuk Baget",
+  "domain": "baget-3.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "inter",
+    "heading": "poppins",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#3B66BA",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "12px",
+    "--mx-radius-md": "20px",
+    "--mx-radius-lg": "28px",
+    "--mx-radius-xl": "999px"
+  },
+  "icon": "icon.png"
+}
