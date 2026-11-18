@@ -4,12 +4,16 @@
   "description": {
     "tr": "Kabuk Baget: Şehitkamil'de taş fırın baget ve katman katman sandviç; yarım, tam ya da paylaşım boyu, gel-al saati WhatsApp'tan. Demo site; içerik kurgusaldır.",
     "en": "Kabuk Baget: stone-oven baguettes and layered sandwiches in Sehitkamil; half, full or sharing size, with pick-up times booked on WhatsApp. Demo site; content is fictional.",
-    "ar": "كابوك باغيت: باغيت من الفرن الحجري وسندويشات بطبقات في شهيد كامل؛ نصف أو كامل أو حجم للمشاركة، مع حجز وقت الاستلام عبر واتساب. موقع تجريبي؛ المحتوى افتراضي."
+    "ar": "كابوك باغيت: باغيت من الفرن الحجري وسندويشات بطبقات في شهيد كامل؛ نصف أو كامل أو حجم للمشاركة، مع حجز وقت الاستلام عبر واتساب. موقع تجريبي؛ المحتوى افتراضي.",
+    "de": "Kabuk Baget: Steinofen-Baguette und Sandwiches Schicht für Schicht in Şehitkamil; halb, ganz oder in Teilen-Länge, Abholzeit per WhatsApp. Demo-Website; Inhalte sind fiktiv.",
+    "ru": "Kabuk Baget: багет из каменной печи и сэндвичи слой за слоем в Шехиткамиле; половина, целый или длина «на компанию», время самовывоза — через WhatsApp. Демо-сайт; содержание условное."
   },
   "keyword": {
     "tr": "baget, sandviç, taş fırın, gel-al, kahvaltı, Gaziantep",
     "en": "baguette, sandwich, stone oven, pick-up, breakfast, Gaziantep",
-    "ar": "باغيت، سندويش، فرن حجري، استلام، فطور، غازي عنتاب"
+    "ar": "باغيت، سندويش، فرن حجري، استلام، فطور، غازي عنتاب",
+    "de": "Baguette, Sandwich, Steinofen, Abholung, Frühstück, Gaziantep",
+    "ru": "багет, сэндвич, каменная печь, самовывоз, завтрак, Газиантеп"
   },
   "category": "Kurumsal",
   "name": "Kabuk Baget",
@@ -18,15 +22,27 @@
     "tr": true,
     "en": true,
     "ar": true,
-    "de": false,
-    "ru": false,
+    "de": true,
+    "ru": true,
     "es": false,
     "fr": false,
     "it": false,
     "ja": false,
     "zh": false,
     "ko": false,
-    "pt": false
+    "pt": false,
+    "fa": false,
+    "he": false,
+    "ur": false,
+    "nl": false,
+    "pl": false,
+    "uk": false,
+    "az": false,
+    "ka": false,
+    "el": false,
+    "bg": false,
+    "ro": false,
+    "hi": false
   },
   "logo": "logo.png",
   "multi": false,

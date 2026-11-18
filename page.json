@@ -5,12 +5,16 @@
       "name": {
         "tr": "Menü",
         "en": "Menu",
-        "ar": "القائمة"
+        "ar": "القائمة",
+        "de": "Menü",
+        "ru": "Меню"
       },
       "description": {
         "tr": "Baget tahtası, boy seçimi ve örnek fiyatlar.",
         "en": "Baguette board, size choice and example prices.",
-        "ar": "لوح الباغيت واختيار الحجم والأسعار النموذجية."
+        "ar": "لوح الباغيت واختيار الحجم والأسعار النموذجية.",
+        "de": "Baguette-Brett, Längenwahl und Beispielpreise.",
+        "ru": "Доска для багета, выбор длины и примерные цены."
       },
       "path": "hizmetler",
       "icon": "restaurant_menu",
@@ -31,7 +35,9 @@
       "name": {
         "tr": "Fırın",
         "en": "Bakery",
-        "ar": "المخبز"
+        "ar": "المخبز",
+        "de": "Bäckerei",
+        "ru": "Пекарня"
       },
       "status": "play",
       "id": "hakkimizda",
@@ -52,7 +58,9 @@
       "description": {
         "tr": "Fırın, kahvaltı ve tatlı rafları; misafir notları (kurgusal).",
         "en": "Bakery, breakfast and sweet shelves; guest notes (fictional).",
-        "ar": "رفوف المخبز والفطور والحلويات؛ ملاحظات الضيوف (افتراضية)."
+        "ar": "رفوف المخبز والفطور والحلويات؛ ملاحظات الضيوف (افتراضية).",
+        "de": "Regale mit Backwaren, Frühstück und Desserts; Gästenotizen (fiktiv).",
+        "ru": "Полки с выпечкой, завтраками и десертами; заметки гостей (вымышленные)."
       }
     },
     {
@@ -60,12 +68,16 @@
       "name": {
         "tr": "SSS",
         "en": "FAQ",
-        "ar": "الأسئلة"
+        "ar": "الأسئلة",
+        "de": "FAQ",
+        "ru": "FAQ"
       },
       "description": {
         "tr": "Merak edilenler ve kısa yanıtlar.",
         "en": "Common questions and short answers.",
-        "ar": "أسئلة متكررة وإجابات موجزة."
+        "ar": "أسئلة متكررة وإجابات موجزة.",
+        "de": "Was Sie wissen möchten, in kurzen Antworten.",
+        "ru": "Что интересует читателей — в коротких ответах."
       },
       "path": "sorular",
       "icon": "help",
@@ -86,12 +98,16 @@
       "name": {
         "tr": "Gel-al",
         "en": "Pick-up",
-        "ar": "الاستلام"
+        "ar": "الاستلام",
+        "de": "Abholung",
+        "ru": "С собой"
       },
       "description": {
         "tr": "Gün ve saat çarkıyla gel-al siparişi (demo).",
         "en": "Pick-up order with day and time wheels (demo).",
-        "ar": "طلب استلام بعجلتي اليوم والساعة (تجريبي)."
+        "ar": "طلب استلام بعجلتي اليوم والساعة (تجريبي).",
+        "de": "Abholbestellung mit Tag-und-Uhrzeit-Rad (Demo).",
+        "ru": "Заказ с самовывозом с колесом выбора дня и времени (демо)."
       },
       "path": "teklif-al",
       "icon": "shopping_bag",
@@ -110,7 +126,9 @@
       "name": {
         "tr": "İletişim",
         "en": "Contact",
-        "ar": "اتصل بنا"
+        "ar": "اتصل بنا",
+        "de": "Kontakt",
+        "ru": "Контакты"
       },
       "status": "play",
       "id": "iletisim",
@@ -131,7 +149,9 @@
       "description": {
         "tr": "Adres, fırın saatleri ve harita.",
         "en": "Address, bakery hours and map.",
-        "ar": "العنوان وساعات المخبز والخريطة."
+        "ar": "العنوان وساعات المخبز والخريطة.",
+        "de": "Adresse, Backstundenzettel und Karte.",
+        "ru": "Адрес, часы работы пекарни и карта."
       }
     }
   ],

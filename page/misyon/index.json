@@ -3,17 +3,23 @@
   "name": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "description": {
     "tr": "Misyonumuz",
     "en": "Our mission",
-    "ar": "مهمتنا"
+    "ar": "مهمتنا",
+    "de": "Unsere Mission",
+    "ru": "Наша миссия"
   },
   "keyword": {
     "tr": "Misyon",
     "en": "mission, our mission, corporate responsibility",
-    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية"
+    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "path": "misyon",
   "icon": "flag",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Misyonumuz</h2>\n<p>Gece yoğrulan hamuru sabah sıcak bir sandvice dönüştürüp sırasız teslim etmek.</p>",
     "en": "<h2>Our mission</h2>\n<p>To turn overnight dough into a warm morning sandwich and hand it over without a queue.</p>",
-    "ar": "<h2>مهمتنا</h2>\n<p>تحويل العجين المعجون ليلًا إلى سندويش صباحي دافئ وتسليمه دون طابور.</p>"
+    "ar": "<h2>مهمتنا</h2>\n<p>تحويل العجين المعجون ليلًا إلى سندويش صباحي دافئ وتسليمه دون طابور.</p>",
+    "de": "<h2>Unsere Mission</h2>\n<p>Den über Nacht gekneteten Teig am Morgen in ein warmes Sandwich zu verwandeln und ohne Anstehen zu liefern.</p>",
+    "ru": "<h2>Наша миссия</h2>\n<p>Превращать тесто, замешанное ночью, в тёплый сэндвич и выдавать его утром без очереди.</p>"
   },
   "title": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "date": "2026-11-16T20:25:22.602Z",
   "update": "2026-11-16T20:42:12.663Z",

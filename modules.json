@@ -14,28 +14,38 @@
         "ariaLabel": {
           "tr": "Demo site uyarısı",
           "en": "Demo site notice",
-          "ar": "تنبيه الموقع التجريبي"
+          "ar": "تنبيه الموقع التجريبي",
+          "de": "Hinweis zur Demo-Website",
+          "ru": "Предупреждение о демонстрационном сайте"
         },
         "text": {
           "tr": "Bu bir demo sitedir — içerik kurgusaldır, ödeme alınmaz",
           "en": "This is a demo site — the content is fictional and no payment is taken",
-          "ar": "هذا موقع تجريبي — المحتوى افتراضي ولا يتم تحصيل أي مدفوعات"
+          "ar": "هذا موقع تجريبي — المحتوى افتراضي ولا يتم تحصيل أي مدفوعات",
+          "de": "Dies ist eine Demo-Website — die Inhalte sind fiktiv, es wird keine Zahlung entgegengenommen",
+          "ru": "Это демо-сайт — контент вымышленный, оплата не принимается"
         },
         "ctaText": {
           "tr": "Bu temayı iste",
           "en": "Get this theme",
-          "ar": "اطلب هذا القالب"
+          "ar": "اطلب هذا القالب",
+          "de": "Dieses Thema anfordern",
+          "ru": "Заказать эту тему"
         },
         "newTabText": {
           "tr": "(yeni sekmede açılır)",
           "en": "(opens in a new tab)",
-          "ar": "(يفتح في علامة تبويب جديدة)"
+          "ar": "(يفتح في علامة تبويب جديدة)",
+          "de": "(öffnet in einem neuen Tab)",
+          "ru": "(открывается в новой вкладке)"
         },
         "girisHref": "",
         "girisText": {
           "tr": "Üye Girişi",
           "en": "Login",
-          "ar": "تسجيل الدخول"
+          "ar": "تسجيل الدخول",
+          "de": "Mitglieder-Login",
+          "ru": "Вход для участников"
         },
         "hataBildir": "https://webyapar.com/api/portal/tema-hata.js"
       },
@@ -78,28 +88,38 @@
         "badge": {
           "tr": "Emlak",
           "en": "Real estate",
-          "ar": "عقارات"
+          "ar": "عقارات",
+          "de": "Immobilien",
+          "ru": "Недвижимость"
         },
         "title": {
           "tr": "Hayalinizdeki yeri birlikte bulalım",
           "en": "Let's find your dream home together",
-          "ar": "لنجد معًا المكان الذي تحلم به"
+          "ar": "لنجد معًا المكان الذي تحلم به",
+          "de": "Finden wir gemeinsam Ihren Traumort",
+          "ru": "Давайте вместе найдём место вашей мечты"
         },
         "description": {
           "tr": "Satılık ve kiralık seçkin portföy, şeffaf süreç, her ilanda yetki belgesi numarası.",
           "en": "A curated sale and rental portfolio, a transparent process, a permit number on every listing.",
-          "ar": "محفظة مختارة للبيع والإيجار وعملية شفافة ورقم ترخيص في كل إعلان."
+          "ar": "محفظة مختارة للبيع والإيجار وعملية شفافة ورقم ترخيص في كل إعلان.",
+          "de": "Ausgewählte Immobilien zum Kauf und zur Miete, transparenter Ablauf, bei jedem Inserat die Nummer der Vollmacht.",
+          "ru": "Избранный портфель недвижимости на продажу и в аренду, прозрачный процесс, номер разрешительного документа в каждом объявлении."
         },
         "btn1Text": {
           "tr": "İlanları gör",
           "en": "Browse listings",
-          "ar": "تصفح الإعلانات"
+          "ar": "تصفح الإعلانات",
+          "de": "Anzeigen durchsuchen",
+          "ru": "Просмотреть объявления"
         },
         "btn1Url": "ilanlar",
         "btn2Text": {
           "tr": "Değerleme",
           "en": "Valuation",
-          "ar": "التقييم"
+          "ar": "التقييم",
+          "de": "Bewertung",
+          "ru": "Оценка"
         },
         "btn2Url": "iletisim"
       },
@@ -129,127 +149,177 @@
         "title": {
           "tr": "Emlak İlanları",
           "en": "Property Listings",
-          "ar": "إعلانات العقارات"
+          "ar": "إعلانات العقارات",
+          "de": "Immobilienangebote",
+          "ru": "Объявления о недвижимости"
         },
         "subtitle": {
           "tr": "Satılık ve kiralık ilanları süzün, sıralayın ve karşılaştırın.",
           "en": "Filter, sort and compare properties for sale and for rent.",
-          "ar": "صفِّ العقارات المعروضة للبيع والإيجار ورتّبها وقارن بينها."
+          "ar": "صفِّ العقارات المعروضة للبيع والإيجار ورتّبها وقارن بينها.",
+          "de": "Objekte zum Kauf und zur Miete filtern, sortieren und vergleichen.",
+          "ru": "Фильтруйте, сортируйте и сравнивайте объекты на продажу и в аренду."
         },
         "searchLabel": {
           "tr": "İlan ara",
           "en": "Search listings",
-          "ar": "ابحث في الإعلانات"
+          "ar": "ابحث في الإعلانات",
+          "de": "Inserate suchen",
+          "ru": "Искать объявления"
         },
         "searchPlaceholder": {
           "tr": "Semt veya ilan başlığı…",
           "en": "District or listing title…",
-          "ar": "الحي أو عنوان الإعلان…"
+          "ar": "الحي أو عنوان الإعلان…",
+          "de": "Stadtteil oder Anzeigentitel…",
+          "ru": "Район или заголовок объявления…"
         },
         "dealGroupLabel": {
           "tr": "İşlem türü",
           "en": "Deal type",
-          "ar": "نوع الصفقة"
+          "ar": "نوع الصفقة",
+          "de": "Transaktionstyp",
+          "ru": "Тип сделки"
         },
         "dealAll": {
           "tr": "Tümü",
           "en": "All",
-          "ar": "الكل"
+          "ar": "الكل",
+          "de": "Alle",
+          "ru": "Все"
         },
         "dealSale": {
           "tr": "Satılık",
           "en": "For sale",
-          "ar": "للبيع"
+          "ar": "للبيع",
+          "de": "Zu verkaufen",
+          "ru": "Продам"
         },
         "dealRent": {
           "tr": "Kiralık",
           "en": "For rent",
-          "ar": "للإيجار"
+          "ar": "للإيجار",
+          "de": "Zu vermieten",
+          "ru": "Аренда"
         },
         "filtersTitle": {
           "tr": "Filtreler",
           "en": "Filters",
-          "ar": "التصفية"
+          "ar": "التصفية",
+          "de": "Filter",
+          "ru": "Фильтры"
         },
         "typeTitle": {
           "tr": "Emlak türü",
           "en": "Property type",
-          "ar": "نوع العقار"
+          "ar": "نوع العقار",
+          "de": "Eigentumsart",
+          "ru": "Тип недвижимости"
         },
         "roomsTitle": {
           "tr": "Oda sayısı",
           "en": "Rooms",
-          "ar": "عدد الغرف"
+          "ar": "عدد الغرف",
+          "de": "Zimmerzahl",
+          "ru": "Количество комнат"
         },
         "m2Title": {
           "tr": "Alan (m²)",
           "en": "Area (m²)",
-          "ar": "المساحة (م²)"
+          "ar": "المساحة (م²)",
+          "de": "Fläche (m²)",
+          "ru": "Площадь (м²)"
         },
         "priceTitle": {
           "tr": "Fiyat",
           "en": "Price",
-          "ar": "السعر"
+          "ar": "السعر",
+          "de": "Preis",
+          "ru": "Цена"
         },
         "districtTitle": {
           "tr": "Semt",
           "en": "District",
-          "ar": "الحي"
+          "ar": "الحي",
+          "de": "Stadtviertel",
+          "ru": "Район"
         },
         "districtAll": {
           "tr": "Tüm semtler",
           "en": "All districts",
-          "ar": "كل الأحياء"
+          "ar": "كل الأحياء",
+          "de": "Alle Stadtteile",
+          "ru": "Все районы"
         },
         "minLabel": {
           "tr": "En az",
           "en": "Min",
-          "ar": "الحد الأدنى"
+          "ar": "الحد الأدنى",
+          "de": "Mindestens",
+          "ru": "Минимум"
         },
         "maxLabel": {
           "tr": "En çok",
           "en": "Max",
-          "ar": "الحد الأقصى"
+          "ar": "الحد الأقصى",
+          "de": "Max",
+          "ru": "Макс"
         },
         "m2Unit": {
           "tr": "m²",
           "en": "m²",
-          "ar": "م²"
+          "ar": "م²",
+          "de": "m²",
+          "ru": "m²"
         },
         "sortLabel": {
           "tr": "Sırala",
           "en": "Sort by",
-          "ar": "ترتيب حسب"
+          "ar": "ترتيب حسب",
+          "de": "Sortieren",
+          "ru": "Сортировать"
         },
         "sortDate": {
           "tr": "En yeni",
           "en": "Newest",
-          "ar": "الأحدث"
+          "ar": "الأحدث",
+          "de": "Neueste",
+          "ru": "Самые новые"
         },
         "sortPrice": {
           "tr": "Fiyat: düşükten yükseğe",
           "en": "Price: low to high",
-          "ar": "السعر: من الأقل إلى الأعلى"
+          "ar": "السعر: من الأقل إلى الأعلى",
+          "de": "Preis: aufsteigend",
+          "ru": "Цена: по возрастанию"
         },
         "sortPriceDesc": {
           "tr": "Fiyat: yüksekten düşüğe",
           "en": "Price: high to low",
-          "ar": "السعر: من الأعلى إلى الأقل"
+          "ar": "السعر: من الأعلى إلى الأقل",
+          "de": "Preis: absteigend",
+          "ru": "Цена: по убыванию"
         },
         "sortM2": {
           "tr": "Alan: büyükten küçüğe",
           "en": "Area: large to small",
-          "ar": "المساحة: من الأكبر إلى الأصغر"
+          "ar": "المساحة: من الأكبر إلى الأصغر",
+          "de": "Fläche: von groß nach klein",
+          "ru": "Площадь: от большой к малой"
         },
         "sortM2Asc": {
           "tr": "Alan: küçükten büyüğe",
           "en": "Area: small to large",
-          "ar": "المساحة: من الأصغر إلى الأكبر"
+          "ar": "المساحة: من الأصغر إلى الأكبر",
+          "de": "Fläche: von klein nach groß",
+          "ru": "Площадь: от меньшей к большей"
         },
         "resetFilters": {
           "tr": "Filtreleri temizle",
           "en": "Clear filters",
-          "ar": "مسح عوامل التصفية"
+          "ar": "مسح عوامل التصفية",
+          "de": "Filter zurücksetzen",
+          "ru": "Сбросить фильтры"
         },
         "resultCount": {
           "tr": {
@@ -289,62 +359,86 @@
         "noResultTitle": {
           "tr": "Sonuç bulunamadı",
           "en": "No results found",
-          "ar": "لم يتم العثور على نتائج"
+          "ar": "لم يتم العثور على نتائج",
+          "de": "Keine Ergebnisse gefunden",
+          "ru": "Ничего не найдено"
         },
         "noResultText": {
           "tr": "Filtreleri gevşetmeyi veya temizlemeyi deneyin.",
           "en": "Try loosening or clearing your filters.",
-          "ar": "جرّب تخفيف عوامل التصفية أو مسحها."
+          "ar": "جرّب تخفيف عوامل التصفية أو مسحها.",
+          "de": "Versuchen Sie, die Filter zu lockern oder zurückzusetzen.",
+          "ru": "Попробуйте ослабить или сбросить фильтры."
         },
         "pagesLabel": {
           "tr": "Sayfalama",
           "en": "Pagination",
-          "ar": "التنقل بين الصفحات"
+          "ar": "التنقل بين الصفحات",
+          "de": "Seitennavigation",
+          "ru": "Постраничная навигация"
         },
         "prevPage": {
           "tr": "Önceki sayfa",
           "en": "Previous page",
-          "ar": "الصفحة السابقة"
+          "ar": "الصفحة السابقة",
+          "de": "Vorherige Seite",
+          "ru": "Предыдущая страница"
         },
         "nextPage": {
           "tr": "Sonraki sayfa",
           "en": "Next page",
-          "ar": "الصفحة التالية"
+          "ar": "الصفحة التالية",
+          "de": "Nächste Seite",
+          "ru": "Следующая страница"
         },
         "pageN": {
           "tr": "Sayfa {n}",
           "en": "Page {n}",
-          "ar": "الصفحة {n}"
+          "ar": "الصفحة {n}",
+          "de": "Seite {n}",
+          "ru": "Страница {n}"
         },
         "permitLabel": {
           "tr": "Yetki belgesi no",
           "en": "Authorization certificate no.",
-          "ar": "رقم شهادة التفويض"
+          "ar": "رقم شهادة التفويض",
+          "de": "Zulassungsnummer",
+          "ru": "Номер разрешительного документа"
         },
         "permitDemo": {
           "tr": "Yetki belgesi no: örnek ilan (DEMO)",
           "en": "Authorization no.: sample listing (DEMO)",
-          "ar": "رقم شهادة التفويض: إعلان تجريبي (عرض توضيحي)"
+          "ar": "رقم شهادة التفويض: إعلان تجريبي (عرض توضيحي)",
+          "de": "Zulassungsnr.: Beispielanzeige (DEMO)",
+          "ru": "Номер разрешения: пример объявления (ДЕМО)"
         },
         "perMonth": {
           "tr": "/ ay",
           "en": "/ month",
-          "ar": "/ شهريًا"
+          "ar": "/ شهريًا",
+          "de": "/ month",
+          "ru": "/ month"
         },
         "details": {
           "tr": "İlan detayı",
           "en": "View listing",
-          "ar": "تفاصيل الإعلان"
+          "ar": "تفاصيل الإعلان",
+          "de": "Anzeigedetails",
+          "ru": "Детали объявления"
         },
         "dateLabel": {
           "tr": "İlan tarihi",
           "en": "Listed on",
-          "ar": "تاريخ الإعلان"
+          "ar": "تاريخ الإعلان",
+          "de": "Einschaltungsdatum",
+          "ru": "Дата размещения"
         },
         "demoNote": {
           "tr": "Bu sayfadaki ilanlar kurgusaldır; yetki belgesi numaraları örnektir (DEMO).",
           "en": "Listings on this page are fictional; authorization numbers are samples (DEMO).",
-          "ar": "الإعلانات في هذه الصفحة وهمية، وأرقام شهادات التفويض أمثلة فقط (عرض توضيحي)."
+          "ar": "الإعلانات في هذه الصفحة وهمية، وأرقام شهادات التفويض أمثلة فقط (عرض توضيحي).",
+          "de": "Die Anzeigen auf dieser Seite sind fiktiv; die Genehmigungsnummern sind Beispiele (DEMO).",
+          "ru": "Объявления на этой странице вымышлены; номера разрешений приведены в качестве примеров (DEMO)."
         }
       },
       "version": "1.0.0",
@@ -361,27 +455,37 @@
           "daire": {
             "tr": "Daire",
             "en": "Apartment",
-            "ar": "شقة"
+            "ar": "شقة",
+            "de": "Wohnung",
+            "ru": "Квартира"
           },
           "villa": {
             "tr": "Villa",
             "en": "Villa",
-            "ar": "فيلا"
+            "ar": "فيلا",
+            "de": "Villa",
+            "ru": "Villa"
           },
           "rezidans": {
             "tr": "Rezidans",
             "en": "Residence",
-            "ar": "مجمّع سكني"
+            "ar": "مجمّع سكني",
+            "de": "Residenz",
+            "ru": "Резиденция"
           },
           "arsa": {
             "tr": "Arsa",
             "en": "Land",
-            "ar": "أرض"
+            "ar": "أرض",
+            "de": "Grundstück",
+            "ru": "Участок"
           },
           "isyeri": {
             "tr": "İşyeri",
             "en": "Commercial",
-            "ar": "محل تجاري"
+            "ar": "محل تجاري",
+            "de": "Arbeitsplatz",
+            "ru": "Место работы"
           }
         },
         "listings": [
@@ -390,7 +494,9 @@
             "title": {
               "tr": "Deniz manzaralı 3+1 daire",
               "en": "3+1 apartment with sea view",
-              "ar": "شقة 3+1 بإطلالة بحرية"
+              "ar": "شقة 3+1 بإطلالة بحرية",
+              "de": "3+1-Wohnung mit Meerblick",
+              "ru": "Квартира 3+1 с видом на море"
             },
             "deal": "sale",
             "type": "daire",
@@ -401,12 +507,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Kadıköy",
               "en": "Kadikoy",
-              "ar": "قاضي كوي"
+              "ar": "قاضي كوي",
+              "de": "Kadıköy",
+              "ru": "Кадыкёй"
             },
             "img": [],
             "permitNo": "DEMO-34-0001",
@@ -415,7 +525,9 @@
             "badge": {
               "tr": "Yeni",
               "en": "New",
-              "ar": "جديد"
+              "ar": "جديد",
+              "de": "Neu",
+              "ru": "Новинка"
             }
           },
           {
@@ -423,7 +535,9 @@
             "title": {
               "tr": "Bahçe katı 2+1 kiralık daire",
               "en": "2+1 garden-floor apartment for rent",
-              "ar": "شقة 2+1 في الطابق الأرضي مع حديقة للإيجار"
+              "ar": "شقة 2+1 في الطابق الأرضي مع حديقة للإيجار",
+              "de": "2+1-Mietwohnung im Gartengeschoss",
+              "ru": "Квартира 2+1 в аренду на садовом этаже"
             },
             "deal": "rent",
             "type": "daire",
@@ -434,12 +548,16 @@
             "city": {
               "tr": "Ankara",
               "en": "Ankara",
-              "ar": "أنقرة"
+              "ar": "أنقرة",
+              "de": "Ankara",
+              "ru": "Ankara"
             },
             "district": {
               "tr": "Çankaya",
               "en": "Cankaya",
-              "ar": "تشانكايا"
+              "ar": "تشانكايا",
+              "de": "Çankaya",
+              "ru": "Чанкая"
             },
             "img": [],
             "permitNo": "DEMO-06-0002",
@@ -451,7 +569,9 @@
             "title": {
               "tr": "Havuzlu müstakil villa",
               "en": "Detached villa with pool",
-              "ar": "فيلا مستقلة مع مسبح"
+              "ar": "فيلا مستقلة مع مسبح",
+              "de": "Freistehende Villa mit Pool",
+              "ru": "Отдельно стоящая вилла с бассейном"
             },
             "deal": "sale",
             "type": "villa",
@@ -462,12 +582,16 @@
             "city": {
               "tr": "Muğla",
               "en": "Mugla",
-              "ar": "موغلا"
+              "ar": "موغلا",
+              "de": "Muğla",
+              "ru": "Мугла"
             },
             "district": {
               "tr": "Bodrum",
               "en": "Bodrum",
-              "ar": "بودروم"
+              "ar": "بودروم",
+              "de": "Bodrum",
+              "ru": "Bodrum"
             },
             "img": [],
             "permitNo": "DEMO-48-0003",
@@ -479,7 +603,9 @@
             "title": {
               "tr": "Eşyalı 1+1 kiralık daire",
               "en": "Furnished 1+1 apartment for rent",
-              "ar": "شقة 1+1 مفروشة للإيجار"
+              "ar": "شقة 1+1 مفروشة للإيجار",
+              "de": "Möblierte 1+1-Wohnung zur Miete",
+              "ru": "Меблированная квартира 1+1 в аренду"
             },
             "deal": "rent",
             "type": "daire",
@@ -490,12 +616,16 @@
             "city": {
               "tr": "İzmir",
               "en": "Izmir",
-              "ar": "إزمير"
+              "ar": "إزمير",
+              "de": "İzmir",
+              "ru": "Измир"
             },
             "district": {
               "tr": "Karşıyaka",
               "en": "Karsiyaka",
-              "ar": "قارشيياكا"
+              "ar": "قارشيياكا",
+              "de": "Karşıyaka",
+              "ru": "Каршияка"
             },
             "img": [],
             "permitNo": "DEMO-35-0004",
@@ -507,7 +637,9 @@
             "title": {
               "tr": "İmarlı satılık arsa",
               "en": "Zoned plot for sale",
-              "ar": "أرض مخططة للبيع"
+              "ar": "أرض مخططة للبيع",
+              "de": "Baugrundstück mit Bebauungsplan zu verkaufen",
+              "ru": "Участок под застройку на продажу"
             },
             "deal": "sale",
             "type": "arsa",
@@ -518,12 +650,16 @@
             "city": {
               "tr": "İzmir",
               "en": "Izmir",
-              "ar": "إزمير"
+              "ar": "إزمير",
+              "de": "İzmir",
+              "ru": "Измир"
             },
             "district": {
               "tr": "Urla",
               "en": "Urla",
-              "ar": "أورلا"
+              "ar": "أورلا",
+              "de": "Urla",
+              "ru": "Urla"
             },
             "img": [],
             "permitNo": "DEMO-35-0005",
@@ -535,7 +671,9 @@
             "title": {
               "tr": "Cadde üstü kiralık dükkân",
               "en": "Street-front shop for rent",
-              "ar": "محل على الشارع الرئيسي للإيجار"
+              "ar": "محل على الشارع الرئيسي للإيجار",
+              "de": "Ladenlokal an der Hauptstraße zu vermieten",
+              "ru": "Магазин на главной улице в аренду"
             },
             "deal": "rent",
             "type": "isyeri",
@@ -546,12 +684,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Şişli",
               "en": "Sisli",
-              "ar": "شيشلي"
+              "ar": "شيشلي",
+              "de": "Şişli",
+              "ru": "Шишли"
             },
             "img": [],
             "permitNo": "DEMO-34-0006",
@@ -563,7 +705,9 @@
             "title": {
               "tr": "Site içinde 2+1 daire",
               "en": "2+1 apartment in a gated complex",
-              "ar": "شقة 2+1 داخل مجمع سكني مسوّر"
+              "ar": "شقة 2+1 داخل مجمع سكني مسوّر",
+              "de": "2+1 Wohnung in einer Wohnanlage",
+              "ru": "Квартира 2+1 в закрытом комплексе"
             },
             "deal": "sale",
             "type": "daire",
@@ -574,12 +718,16 @@
             "city": {
               "tr": "Bursa",
               "en": "Bursa",
-              "ar": "بورصة"
+              "ar": "بورصة",
+              "de": "Bursa",
+              "ru": "Bursa"
             },
             "district": {
               "tr": "Nilüfer",
               "en": "Nilufer",
-              "ar": "نيلوفر"
+              "ar": "نيلوفر",
+              "de": "Nilüfer",
+              "ru": "Nilüfer"
             },
             "img": [],
             "permitNo": "DEMO-16-0007",
@@ -591,7 +739,9 @@
             "title": {
               "tr": "Merkezi konumda 1+1 rezidans",
               "en": "1+1 residence in a central location",
-              "ar": "وحدة 1+1 في مجمّع سكني بموقع مركزي"
+              "ar": "وحدة 1+1 في مجمّع سكني بموقع مركزي",
+              "de": "1+1-Residenz in zentraler Lage",
+              "ru": "Резиденция 1+1 в центральном районе"
             },
             "deal": "sale",
             "type": "rezidans",
@@ -602,12 +752,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Beşiktaş",
               "en": "Besiktas",
-              "ar": "بشيكتاش"
+              "ar": "بشيكتاش",
+              "de": "Beşiktaş",
+              "ru": "Бешикташ"
             },
             "img": [],
             "permitNo": "DEMO-34-0008",
@@ -642,7 +796,9 @@
           "label": {
             "tr": "Tamamlanan Proje",
             "en": "Completed Projects",
-            "ar": "مشروع منجز"
+            "ar": "مشروع منجز",
+            "de": "Abgeschlossene Projekte",
+            "ru": "Завершённые проекты"
           },
           "icon": "task_alt"
         },
@@ -652,7 +808,9 @@
           "label": {
             "tr": "Mutlu Müşteri",
             "en": "Happy Customers",
-            "ar": "عميل سعيد"
+            "ar": "عميل سعيد",
+            "de": "Zufriedene Kunden",
+            "ru": "Довольные клиенты"
           },
           "icon": "sentiment_satisfied"
         },
@@ -662,7 +820,9 @@
           "label": {
             "tr": "Yıllık Deneyim",
             "en": "Years of Experience",
-            "ar": "سنوات من الخبرة"
+            "ar": "سنوات من الخبرة",
+            "de": "Jahre Erfahrung",
+            "ru": "Лет опыта"
           },
           "icon": "workspace_premium"
         },
@@ -672,7 +832,9 @@
           "label": {
             "tr": "Destek",
             "en": "Support",
-            "ar": "الدعم"
+            "ar": "الدعم",
+            "de": "Support",
+            "ru": "Поддержка"
           },
           "icon": "support_agent"
         }
@@ -696,17 +858,23 @@
         "badge": {
           "tr": "Ekip",
           "en": "Team",
-          "ar": "الفريق"
+          "ar": "الفريق",
+          "de": "Team",
+          "ru": "Команда"
         },
         "title": {
           "tr": "Danışmanlarımız",
           "en": "Our advisors",
-          "ar": "مستشارونا"
+          "ar": "مستشارونا",
+          "de": "Unsere Berater",
+          "ru": "Наши консультанты"
         },
         "description": {
           "tr": "Alanında deneyimli ekibimiz projelerinize değer katmak için burada.",
           "en": "Our experienced team is here to add value to your projects.",
-          "ar": "فريقنا ذو الخبرة هنا ليضيف قيمة إلى مشاريعك."
+          "ar": "فريقنا ذو الخبرة هنا ليضيف قيمة إلى مشاريعك.",
+          "de": "Unser erfahrenes Team ist hier, um Ihren Projekten Mehrwert zu verleihen.",
+          "ru": "Наша опытная команда готова принести пользу вашим проектам."
         },
         "accentText": "#ffffff"
       },
@@ -718,12 +886,16 @@
           "role": {
             "tr": "Kurucu / CEO",
             "en": "Founder / CEO",
-            "ar": "المؤسس / الرئيس التنفيذي"
+            "ar": "المؤسس / الرئيس التنفيذي",
+            "de": "Gründer / CEO",
+            "ru": "Основатель / CEO"
           },
           "bio": {
             "tr": "10+ yıllık sektör deneyimi ile strateji ve yönetim.",
             "en": "Strategy and management with 10+ years of industry experience.",
-            "ar": "الاستراتيجية والإدارة بخبرة تتجاوز 10 سنوات في القطاع."
+            "ar": "الاستراتيجية والإدارة بخبرة تتجاوز 10 سنوات في القطاع.",
+            "de": "Strategie und Management mit über 10 Jahren Branchenerfahrung.",
+            "ru": "Стратегия и управление с опытом работы в отрасли более 10 лет."
           },
           "img": ""
         },
@@ -732,12 +904,16 @@
           "role": {
             "tr": "Tasarım Direktörü",
             "en": "Design Director",
-            "ar": "مدير التصميم"
+            "ar": "مدير التصميم",
+            "de": "Design Director",
+            "ru": "Арт-директор"
           },
           "bio": {
             "tr": "Marka kimliği ve kullanıcı deneyimi tasarımı.",
             "en": "Brand identity and user experience design.",
-            "ar": "تصميم هوية العلامة التجارية وتجربة المستخدم."
+            "ar": "تصميم هوية العلامة التجارية وتجربة المستخدم.",
+            "de": "Markenidentität und Gestaltung der Nutzererfahrung.",
+            "ru": "Фирменный стиль и дизайн пользовательского опыта."
           },
           "img": ""
         },
@@ -746,12 +922,16 @@
           "role": {
             "tr": "Yazılım Geliştirici",
             "en": "Software Developer",
-            "ar": "مطوّر برمجيات"
+            "ar": "مطوّر برمجيات",
+            "de": "Softwareentwickler",
+            "ru": "Разработчик программного обеспечения"
           },
           "bio": {
             "tr": "Modern web teknolojileri ile ölçeklenebilir çözümler.",
             "en": "Scalable solutions with modern web technologies.",
-            "ar": "حلول قابلة للتوسّع بتقنيات الويب الحديثة."
+            "ar": "حلول قابلة للتوسّع بتقنيات الويب الحديثة.",
+            "de": "Skalierbare Lösungen mit modernen Webtechnologien.",
+            "ru": "Масштабируемые решения на современных веб-технологиях."
           },
           "img": ""
         }
@@ -796,7 +976,9 @@
         "name": {
           "tr": "Bize Ulaşın",
           "en": "Contact Us",
-          "ar": "تواصل معنا"
+          "ar": "تواصل معنا",
+          "de": "Kontaktieren Sie uns",
+          "ru": "Свяжитесь с нами"
         },
         "margin": "30px 0px 30px 0px",
         "linkcolor": "var(--mx-site-primary, #2563eb)",
@@ -850,33 +1032,45 @@
         "name": {
           "tr": "Hakkımızda",
           "en": "About us",
-          "ar": "من نحن"
+          "ar": "من نحن",
+          "de": "Über uns",
+          "ru": "О нас"
         },
         "description": {
           "tr": "Bu sayfa bir tema örneğidir; içerik demo üretiminde doldurulur.",
           "en": "This page is a theme sample; its content is filled in during demo production.",
-          "ar": "هذه الصفحة نموذج للقالب؛ يُملأ محتواها عند إنتاج العرض التجريبي."
+          "ar": "هذه الصفحة نموذج للقالب؛ يُملأ محتواها عند إنتاج العرض التجريبي.",
+          "de": "Diese Seite ist ein Theme-Beispiel; der Inhalt wird bei der Demo-Erstellung befüllt.",
+          "ru": "Эта страница — пример темы; содержание заполняется при создании демо."
         },
         "name2": {
           "tr": "Vizyonumuz",
           "en": "Our Vision",
-          "ar": "رؤيتنا"
+          "ar": "رؤيتنا",
+          "de": "Unsere Vision",
+          "ru": "Наше видение"
         },
         "spot2": {
           "tr": "Sektörümüzde yenilikçi yaklaşımlarla öncü olmak.",
           "en": "To lead our industry with innovative approaches.",
-          "ar": "أن نكون روّادًا في قطاعنا بأساليب مبتكرة."
+          "ar": "أن نكون روّادًا في قطاعنا بأساليب مبتكرة.",
+          "de": "In unserer Branche mit innovativen Ansätzen führend zu sein.",
+          "ru": "Быть лидером в нашей отрасли благодаря инновационным подходам."
         },
         "icon2": "visibility",
         "name3": {
           "tr": "Misyonumuz",
           "en": "Our Mission",
-          "ar": "مهمتنا"
+          "ar": "مهمتنا",
+          "de": "Unsere Mission",
+          "ru": "Наша миссия"
         },
         "spot3": {
           "tr": "İhtiyaç duyulan çözümleri hızlı ve şeffaf sunmak.",
           "en": "Deliver needed solutions quickly and transparently.",
-          "ar": "تقديم الحلول المطلوبة بسرعة وشفافية."
+          "ar": "تقديم الحلول المطلوبة بسرعة وشفافية.",
+          "de": "Die benötigten Lösungen schnell und transparent bereitstellen.",
+          "ru": "Быстро и прозрачно предлагать необходимые решения."
         },
         "icon3": "flag",
         "img": "index.jpg",
@@ -887,7 +1081,9 @@
         "title": {
           "tr": "Kurumsal",
           "en": "Corporate",
-          "ar": "المؤسسة"
+          "ar": "المؤسسة",
+          "de": "Über uns",
+          "ru": "О нас"
         },
         "stil": ""
       },
@@ -917,127 +1113,177 @@
         "title": {
           "tr": "Emlak İlanları",
           "en": "Property Listings",
-          "ar": "إعلانات العقارات"
+          "ar": "إعلانات العقارات",
+          "de": "Immobilienangebote",
+          "ru": "Объявления о недвижимости"
         },
         "subtitle": {
           "tr": "Satılık ve kiralık ilanları süzün, sıralayın ve karşılaştırın.",
           "en": "Filter, sort and compare properties for sale and for rent.",
-          "ar": "صفِّ العقارات المعروضة للبيع والإيجار ورتّبها وقارن بينها."
+          "ar": "صفِّ العقارات المعروضة للبيع والإيجار ورتّبها وقارن بينها.",
+          "de": "Objekte zum Kauf und zur Miete filtern, sortieren und vergleichen.",
+          "ru": "Фильтруйте, сортируйте и сравнивайте объекты на продажу и в аренду."
         },
         "searchLabel": {
           "tr": "İlan ara",
           "en": "Search listings",
-          "ar": "ابحث في الإعلانات"
+          "ar": "ابحث في الإعلانات",
+          "de": "Inserate suchen",
+          "ru": "Искать объявления"
         },
         "searchPlaceholder": {
           "tr": "Semt veya ilan başlığı…",
           "en": "District or listing title…",
-          "ar": "الحي أو عنوان الإعلان…"
+          "ar": "الحي أو عنوان الإعلان…",
+          "de": "Stadtteil oder Anzeigentitel…",
+          "ru": "Район или заголовок объявления…"
         },
         "dealGroupLabel": {
           "tr": "İşlem türü",
           "en": "Deal type",
-          "ar": "نوع الصفقة"
+          "ar": "نوع الصفقة",
+          "de": "Transaktionstyp",
+          "ru": "Тип сделки"
         },
         "dealAll": {
           "tr": "Tümü",
           "en": "All",
-          "ar": "الكل"
+          "ar": "الكل",
+          "de": "Alle",
+          "ru": "Все"
         },
         "dealSale": {
           "tr": "Satılık",
           "en": "For sale",
-          "ar": "للبيع"
+          "ar": "للبيع",
+          "de": "Zu verkaufen",
+          "ru": "Продам"
         },
         "dealRent": {
           "tr": "Kiralık",
           "en": "For rent",
-          "ar": "للإيجار"
+          "ar": "للإيجار",
+          "de": "Zu vermieten",
+          "ru": "Аренда"
         },
         "filtersTitle": {
           "tr": "Filtreler",
           "en": "Filters",
-          "ar": "التصفية"
+          "ar": "التصفية",
+          "de": "Filter",
+          "ru": "Фильтры"
         },
         "typeTitle": {
           "tr": "Emlak türü",
           "en": "Property type",
-          "ar": "نوع العقار"
+          "ar": "نوع العقار",
+          "de": "Eigentumsart",
+          "ru": "Тип недвижимости"
         },
         "roomsTitle": {
           "tr": "Oda sayısı",
           "en": "Rooms",
-          "ar": "عدد الغرف"
+          "ar": "عدد الغرف",
+          "de": "Zimmerzahl",
+          "ru": "Количество комнат"
         },
         "m2Title": {
           "tr": "Alan (m²)",
           "en": "Area (m²)",
-          "ar": "المساحة (م²)"
+          "ar": "المساحة (م²)",
+          "de": "Fläche (m²)",
+          "ru": "Площадь (м²)"
         },
         "priceTitle": {
           "tr": "Fiyat",
           "en": "Price",
-          "ar": "السعر"
+          "ar": "السعر",
+          "de": "Preis",
+          "ru": "Цена"
         },
         "districtTitle": {
           "tr": "Semt",
           "en": "District",
-          "ar": "الحي"
+          "ar": "الحي",
+          "de": "Stadtviertel",
+          "ru": "Район"
         },
         "districtAll": {
           "tr": "Tüm semtler",
           "en": "All districts",
-          "ar": "كل الأحياء"
+          "ar": "كل الأحياء",
+          "de": "Alle Stadtteile",
+          "ru": "Все районы"
         },
         "minLabel": {
           "tr": "En az",
           "en": "Min",
-          "ar": "الحد الأدنى"
+          "ar": "الحد الأدنى",
+          "de": "Mindestens",
+          "ru": "Минимум"
         },
         "maxLabel": {
           "tr": "En çok",
           "en": "Max",
-          "ar": "الحد الأقصى"
+          "ar": "الحد الأقصى",
+          "de": "Max",
+          "ru": "Макс"
         },
         "m2Unit": {
           "tr": "m²",
           "en": "m²",
-          "ar": "م²"
+          "ar": "م²",
+          "de": "m²",
+          "ru": "m²"
         },
         "sortLabel": {
           "tr": "Sırala",
           "en": "Sort by",
-          "ar": "ترتيب حسب"
+          "ar": "ترتيب حسب",
+          "de": "Sortieren",
+          "ru": "Сортировать"
         },
         "sortDate": {
           "tr": "En yeni",
           "en": "Newest",
-          "ar": "الأحدث"
+          "ar": "الأحدث",
+          "de": "Neueste",
+          "ru": "Самые новые"
         },
         "sortPrice": {
           "tr": "Fiyat: düşükten yükseğe",
           "en": "Price: low to high",
-          "ar": "السعر: من الأقل إلى الأعلى"
+          "ar": "السعر: من الأقل إلى الأعلى",
+          "de": "Preis: aufsteigend",
+          "ru": "Цена: по возрастанию"
         },
         "sortPriceDesc": {
           "tr": "Fiyat: yüksekten düşüğe",
           "en": "Price: high to low",
-          "ar": "السعر: من الأعلى إلى الأقل"
+          "ar": "السعر: من الأعلى إلى الأقل",
+          "de": "Preis: absteigend",
+          "ru": "Цена: по убыванию"
         },
         "sortM2": {
           "tr": "Alan: büyükten küçüğe",
           "en": "Area: large to small",
-          "ar": "المساحة: من الأكبر إلى الأصغر"
+          "ar": "المساحة: من الأكبر إلى الأصغر",
+          "de": "Fläche: von groß nach klein",
+          "ru": "Площадь: от большой к малой"
         },
         "sortM2Asc": {
           "tr": "Alan: küçükten büyüğe",
           "en": "Area: small to large",
-          "ar": "المساحة: من الأصغر إلى الأكبر"
+          "ar": "المساحة: من الأصغر إلى الأكبر",
+          "de": "Fläche: von klein nach groß",
+          "ru": "Площадь: от меньшей к большей"
         },
         "resetFilters": {
           "tr": "Filtreleri temizle",
           "en": "Clear filters",
-          "ar": "مسح عوامل التصفية"
+          "ar": "مسح عوامل التصفية",
+          "de": "Filter zurücksetzen",
+          "ru": "Сбросить фильтры"
         },
         "resultCount": {
           "tr": {
@@ -1077,62 +1323,86 @@
         "noResultTitle": {
           "tr": "Sonuç bulunamadı",
           "en": "No results found",
-          "ar": "لم يتم العثور على نتائج"
+          "ar": "لم يتم العثور على نتائج",
+          "de": "Keine Ergebnisse gefunden",
+          "ru": "Ничего не найдено"
         },
         "noResultText": {
           "tr": "Filtreleri gevşetmeyi veya temizlemeyi deneyin.",
           "en": "Try loosening or clearing your filters.",
-          "ar": "جرّب تخفيف عوامل التصفية أو مسحها."
+          "ar": "جرّب تخفيف عوامل التصفية أو مسحها.",
+          "de": "Versuchen Sie, die Filter zu lockern oder zurückzusetzen.",
+          "ru": "Попробуйте ослабить или сбросить фильтры."
         },
         "pagesLabel": {
           "tr": "Sayfalama",
           "en": "Pagination",
-          "ar": "التنقل بين الصفحات"
+          "ar": "التنقل بين الصفحات",
+          "de": "Seitennavigation",
+          "ru": "Постраничная навигация"
         },
         "prevPage": {
           "tr": "Önceki sayfa",
           "en": "Previous page",
-          "ar": "الصفحة السابقة"
+          "ar": "الصفحة السابقة",
+          "de": "Vorherige Seite",
+          "ru": "Предыдущая страница"
         },
         "nextPage": {
           "tr": "Sonraki sayfa",
           "en": "Next page",
-          "ar": "الصفحة التالية"
+          "ar": "الصفحة التالية",
+          "de": "Nächste Seite",
+          "ru": "Следующая страница"
         },
         "pageN": {
           "tr": "Sayfa {n}",
           "en": "Page {n}",
-          "ar": "الصفحة {n}"
+          "ar": "الصفحة {n}",
+          "de": "Seite {n}",
+          "ru": "Страница {n}"
         },
         "permitLabel": {
           "tr": "Yetki belgesi no",
           "en": "Authorization certificate no.",
-          "ar": "رقم شهادة التفويض"
+          "ar": "رقم شهادة التفويض",
+          "de": "Zulassungsnummer",
+          "ru": "Номер разрешительного документа"
         },
         "permitDemo": {
           "tr": "Yetki belgesi no: örnek ilan (DEMO)",
           "en": "Authorization no.: sample listing (DEMO)",
-          "ar": "رقم شهادة التفويض: إعلان تجريبي (عرض توضيحي)"
+          "ar": "رقم شهادة التفويض: إعلان تجريبي (عرض توضيحي)",
+          "de": "Zulassungsnr.: Beispielanzeige (DEMO)",
+          "ru": "Номер разрешения: пример объявления (ДЕМО)"
         },
         "perMonth": {
           "tr": "/ ay",
           "en": "/ month",
-          "ar": "/ شهريًا"
+          "ar": "/ شهريًا",
+          "de": "/ month",
+          "ru": "/ month"
         },
         "details": {
           "tr": "İlan detayı",
           "en": "View listing",
-          "ar": "تفاصيل الإعلان"
+          "ar": "تفاصيل الإعلان",
+          "de": "Anzeigedetails",
+          "ru": "Детали объявления"
         },
         "dateLabel": {
           "tr": "İlan tarihi",
           "en": "Listed on",
-          "ar": "تاريخ الإعلان"
+          "ar": "تاريخ الإعلان",
+          "de": "Einschaltungsdatum",
+          "ru": "Дата размещения"
         },
         "demoNote": {
           "tr": "Bu sayfadaki ilanlar kurgusaldır; yetki belgesi numaraları örnektir (DEMO).",
           "en": "Listings on this page are fictional; authorization numbers are samples (DEMO).",
-          "ar": "الإعلانات في هذه الصفحة وهمية، وأرقام شهادات التفويض أمثلة فقط (عرض توضيحي)."
+          "ar": "الإعلانات في هذه الصفحة وهمية، وأرقام شهادات التفويض أمثلة فقط (عرض توضيحي).",
+          "de": "Die Anzeigen auf dieser Seite sind fiktiv; die Genehmigungsnummern sind Beispiele (DEMO).",
+          "ru": "Объявления на этой странице вымышлены; номера разрешений приведены в качестве примеров (DEMO)."
         }
       },
       "version": "1.0.0",
@@ -1149,27 +1419,37 @@
           "daire": {
             "tr": "Daire",
             "en": "Apartment",
-            "ar": "شقة"
+            "ar": "شقة",
+            "de": "Wohnung",
+            "ru": "Квартира"
           },
           "villa": {
             "tr": "Villa",
             "en": "Villa",
-            "ar": "فيلا"
+            "ar": "فيلا",
+            "de": "Villa",
+            "ru": "Villa"
           },
           "rezidans": {
             "tr": "Rezidans",
             "en": "Residence",
-            "ar": "مجمّع سكني"
+            "ar": "مجمّع سكني",
+            "de": "Residenz",
+            "ru": "Резиденция"
           },
           "arsa": {
             "tr": "Arsa",
             "en": "Land",
-            "ar": "أرض"
+            "ar": "أرض",
+            "de": "Grundstück",
+            "ru": "Участок"
           },
           "isyeri": {
             "tr": "İşyeri",
             "en": "Commercial",
-            "ar": "محل تجاري"
+            "ar": "محل تجاري",
+            "de": "Arbeitsplatz",
+            "ru": "Место работы"
           }
         },
         "listings": [
@@ -1178,7 +1458,9 @@
             "title": {
               "tr": "Deniz manzaralı 3+1 daire",
               "en": "3+1 apartment with sea view",
-              "ar": "شقة 3+1 بإطلالة بحرية"
+              "ar": "شقة 3+1 بإطلالة بحرية",
+              "de": "3+1-Wohnung mit Meerblick",
+              "ru": "Квартира 3+1 с видом на море"
             },
             "deal": "sale",
             "type": "daire",
@@ -1189,12 +1471,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Kadıköy",
               "en": "Kadikoy",
-              "ar": "قاضي كوي"
+              "ar": "قاضي كوي",
+              "de": "Kadıköy",
+              "ru": "Кадыкёй"
             },
             "img": [],
             "permitNo": "DEMO-34-0001",
@@ -1203,7 +1489,9 @@
             "badge": {
               "tr": "Yeni",
               "en": "New",
-              "ar": "جديد"
+              "ar": "جديد",
+              "de": "Neu",
+              "ru": "Новинка"
             }
           },
           {
@@ -1211,7 +1499,9 @@
             "title": {
               "tr": "Bahçe katı 2+1 kiralık daire",
               "en": "2+1 garden-floor apartment for rent",
-              "ar": "شقة 2+1 في الطابق الأرضي مع حديقة للإيجار"
+              "ar": "شقة 2+1 في الطابق الأرضي مع حديقة للإيجار",
+              "de": "2+1-Mietwohnung im Gartengeschoss",
+              "ru": "Квартира 2+1 в аренду на садовом этаже"
             },
             "deal": "rent",
             "type": "daire",
@@ -1222,12 +1512,16 @@
             "city": {
               "tr": "Ankara",
               "en": "Ankara",
-              "ar": "أنقرة"
+              "ar": "أنقرة",
+              "de": "Ankara",
+              "ru": "Ankara"
             },
             "district": {
               "tr": "Çankaya",
               "en": "Cankaya",
-              "ar": "تشانكايا"
+              "ar": "تشانكايا",
+              "de": "Çankaya",
+              "ru": "Чанкая"
             },
             "img": [],
             "permitNo": "DEMO-06-0002",
@@ -1239,7 +1533,9 @@
             "title": {
               "tr": "Havuzlu müstakil villa",
               "en": "Detached villa with pool",
-              "ar": "فيلا مستقلة مع مسبح"
+              "ar": "فيلا مستقلة مع مسبح",
+              "de": "Freistehende Villa mit Pool",
+              "ru": "Отдельно стоящая вилла с бассейном"
             },
             "deal": "sale",
             "type": "villa",
@@ -1250,12 +1546,16 @@
             "city": {
               "tr": "Muğla",
               "en": "Mugla",
-              "ar": "موغلا"
+              "ar": "موغلا",
+              "de": "Muğla",
+              "ru": "Мугла"
             },
             "district": {
               "tr": "Bodrum",
               "en": "Bodrum",
-              "ar": "بودروم"
+              "ar": "بودروم",
+              "de": "Bodrum",
+              "ru": "Bodrum"
             },
             "img": [],
             "permitNo": "DEMO-48-0003",
@@ -1267,7 +1567,9 @@
             "title": {
               "tr": "Eşyalı 1+1 kiralık daire",
               "en": "Furnished 1+1 apartment for rent",
-              "ar": "شقة 1+1 مفروشة للإيجار"
+              "ar": "شقة 1+1 مفروشة للإيجار",
+              "de": "Möblierte 1+1-Wohnung zur Miete",
+              "ru": "Меблированная квартира 1+1 в аренду"
             },
             "deal": "rent",
             "type": "daire",
@@ -1278,12 +1580,16 @@
             "city": {
               "tr": "İzmir",
               "en": "Izmir",
-              "ar": "إزمير"
+              "ar": "إزمير",
+              "de": "İzmir",
+              "ru": "Измир"
             },
             "district": {
               "tr": "Karşıyaka",
               "en": "Karsiyaka",
-              "ar": "قارشيياكا"
+              "ar": "قارشيياكا",
+              "de": "Karşıyaka",
+              "ru": "Каршияка"
             },
             "img": [],
             "permitNo": "DEMO-35-0004",
@@ -1295,7 +1601,9 @@
             "title": {
               "tr": "İmarlı satılık arsa",
               "en": "Zoned plot for sale",
-              "ar": "أرض مخططة للبيع"
+              "ar": "أرض مخططة للبيع",
+              "de": "Baugrundstück mit Bebauungsplan zu verkaufen",
+              "ru": "Участок под застройку на продажу"
             },
             "deal": "sale",
             "type": "arsa",
@@ -1306,12 +1614,16 @@
             "city": {
               "tr": "İzmir",
               "en": "Izmir",
-              "ar": "إزمير"
+              "ar": "إزمير",
+              "de": "İzmir",
+              "ru": "Измир"
             },
             "district": {
               "tr": "Urla",
               "en": "Urla",
-              "ar": "أورلا"
+              "ar": "أورلا",
+              "de": "Urla",
+              "ru": "Urla"
             },
             "img": [],
             "permitNo": "DEMO-35-0005",
@@ -1323,7 +1635,9 @@
             "title": {
               "tr": "Cadde üstü kiralık dükkân",
               "en": "Street-front shop for rent",
-              "ar": "محل على الشارع الرئيسي للإيجار"
+              "ar": "محل على الشارع الرئيسي للإيجار",
+              "de": "Ladenlokal an der Hauptstraße zu vermieten",
+              "ru": "Магазин на главной улице в аренду"
             },
             "deal": "rent",
             "type": "isyeri",
@@ -1334,12 +1648,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Şişli",
               "en": "Sisli",
-              "ar": "شيشلي"
+              "ar": "شيشلي",
+              "de": "Şişli",
+              "ru": "Шишли"
             },
             "img": [],
             "permitNo": "DEMO-34-0006",
@@ -1351,7 +1669,9 @@
             "title": {
               "tr": "Site içinde 2+1 daire",
               "en": "2+1 apartment in a gated complex",
-              "ar": "شقة 2+1 داخل مجمع سكني مسوّر"
+              "ar": "شقة 2+1 داخل مجمع سكني مسوّر",
+              "de": "2+1 Wohnung in einer Wohnanlage",
+              "ru": "Квартира 2+1 в закрытом комплексе"
             },
             "deal": "sale",
             "type": "daire",
@@ -1362,12 +1682,16 @@
             "city": {
               "tr": "Bursa",
               "en": "Bursa",
-              "ar": "بورصة"
+              "ar": "بورصة",
+              "de": "Bursa",
+              "ru": "Bursa"
             },
             "district": {
               "tr": "Nilüfer",
               "en": "Nilufer",
-              "ar": "نيلوفر"
+              "ar": "نيلوفر",
+              "de": "Nilüfer",
+              "ru": "Nilüfer"
             },
             "img": [],
             "permitNo": "DEMO-16-0007",
@@ -1379,7 +1703,9 @@
             "title": {
               "tr": "Merkezi konumda 1+1 rezidans",
               "en": "1+1 residence in a central location",
-              "ar": "وحدة 1+1 في مجمّع سكني بموقع مركزي"
+              "ar": "وحدة 1+1 في مجمّع سكني بموقع مركزي",
+              "de": "1+1-Residenz in zentraler Lage",
+              "ru": "Резиденция 1+1 в центральном районе"
             },
             "deal": "sale",
             "type": "rezidans",
@@ -1390,12 +1716,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Beşiktaş",
               "en": "Besiktas",
-              "ar": "بشيكتاش"
+              "ar": "بشيكتاش",
+              "de": "Beşiktaş",
+              "ru": "Бешикташ"
             },
             "img": [],
             "permitNo": "DEMO-34-0008",
@@ -1424,22 +1754,30 @@
         "text": {
           "tr": "Bu demo {brand} tarafından hazırlanmıştır —",
           "en": "This demo was prepared by {brand} —",
-          "ar": "تم إعداد هذا العرض التجريبي بواسطة {brand} —"
+          "ar": "تم إعداد هذا العرض التجريبي بواسطة {brand} —",
+          "de": "Diese Demo wurde von {brand} erstellt —",
+          "ru": "Это демо подготовлено компанией {brand} —"
         },
         "ctaText": {
           "tr": "Bu temayı iste",
           "en": "Get this theme",
-          "ar": "اطلب هذا القالب"
+          "ar": "اطلب هذا القالب",
+          "de": "Dieses Thema anfordern",
+          "ru": "Заказать эту тему"
         },
         "newTabText": {
           "tr": "(yeni sekmede açılır)",
           "en": "(opens in a new tab)",
-          "ar": "(يفتح في علامة تبويب جديدة)"
+          "ar": "(يفتح في علامة تبويب جديدة)",
+          "de": "(öffnet in einem neuen Tab)",
+          "ru": "(открывается в новой вкладке)"
         },
         "ariaLabel": {
           "tr": "Demo bilgisi",
           "en": "Demo credit",
-          "ar": "معلومات العرض التجريبي"
+          "ar": "معلومات العرض التجريبي",
+          "de": "Demo-Hinweis",
+          "ru": "Демо-информация"
         }
       },
       "veri": {
@@ -1479,7 +1817,9 @@
         "cta_ad": {
           "tr": "Gel-al",
           "en": "Pick-up",
-          "ar": "استلام"
+          "ar": "استلام",
+          "de": "Abholung",
+          "ru": "С собой"
         },
         "cta_url": "teklif-al",
         "tel": "+90 342 024 77 31",
@@ -1502,7 +1842,9 @@
         "cta": {
           "tr": "Gel-al saati seç",
           "en": "Pick a pick-up time",
-          "ar": "اختر وقت الاستلام"
+          "ar": "اختر وقت الاستلام",
+          "de": "Abholzeit wählen",
+          "ru": "Выберите время забора"
         }
       },
       "data": [],
@@ -1543,17 +1885,23 @@
         "ust": {
           "tr": "Kesit",
           "en": "Cross-section",
-          "ar": "المقطع"
+          "ar": "المقطع",
+          "de": "Querschnitt",
+          "ru": "Сечение"
         },
         "baslik": {
           "tr": "Bir bagetin beş katmanı",
           "en": "Five layers of a baguette",
-          "ar": "خمس طبقات في الباغيت"
+          "ar": "خمس طبقات في الباغيت",
+          "de": "Fünf Schichten eines Baguettes",
+          "ru": "Пять слоев багета"
         },
         "metin": {
           "tr": "Sayfayı kaydırdıkça cetvel kabuktan tabana iner; her katman ayrı tezgâhta hazırlanır.",
           "en": "As you scroll, the ruler moves from crust to base; every layer is prepared at its own station.",
-          "ar": "مع التمرير ينزل المسطرة من القشرة إلى القاعدة؛ وتُحضَّر كل طبقة في محطتها الخاصة."
+          "ar": "مع التمرير ينزل المسطرة من القشرة إلى القاعدة؛ وتُحضَّر كل طبقة في محطتها الخاصة.",
+          "de": "Beim Scrollen bewegt sich der Lineal von der Kruste bis zur Basis; jede Schicht wird an ihrem eigenen Arbeitsplatz vorbereitet.",
+          "ru": "При прокрутке линейка движется от коры до основания; каждый слой готовится на своем рабочем месте."
         },
         "bg": "var(--mx-site-surface, #f6f7f9)",
         "text": "var(--mx-site-text, #111318)",
@@ -1570,12 +1918,16 @@
         "badge": {
           "tr": "Kesit",
           "en": "Cross-section",
-          "ar": "المقطع"
+          "ar": "المقطع",
+          "de": "Querschnitt",
+          "ru": "Сечение"
         },
         "title": {
           "tr": "Bir bagetin beş katmanı",
           "en": "Five layers of a baguette",
-          "ar": "خمس طبقات في الباغيت"
+          "ar": "خمس طبقات في الباغيت",
+          "de": "Fünf Schichten eines Baguettes",
+          "ru": "Пять слоев багета"
         },
         "description": ""
       },
@@ -1585,17 +1937,23 @@
           "baslik": {
             "tr": "Kabuk",
             "en": "Crust",
-            "ar": "القشرة"
+            "ar": "القشرة",
+            "de": "Krume",
+            "ru": "Корочка"
           },
           "metin": {
             "tr": "Taş fırında 230 °C, buharla; kesince çıtırdar.",
             "en": "Baked at 230 °C on stone with steam; it crackles when cut.",
-            "ar": "يُخبز على الحجر بحرارة 230 درجة مع البخار؛ ويطقطق عند القطع."
+            "ar": "يُخبز على الحجر بحرارة 230 درجة مع البخار؛ ويطقطق عند القطع.",
+            "de": "Im Steinofen bei 230 °C mit Dampf; beim Anschneiden knistert es.",
+            "ru": "В каменной печи при 230 °C с паром; при разрезании хрустит."
           },
           "etiket": {
             "tr": "1. katman",
             "en": "Layer 1",
-            "ar": "الطبقة 1"
+            "ar": "الطبقة 1",
+            "de": "1. Schicht",
+            "ru": "1-й слой"
           }
         },
         {
@@ -1603,17 +1961,23 @@
           "baslik": {
             "tr": "Sos",
             "en": "Spread",
-            "ar": "الصلصة"
+            "ar": "الصلصة",
+            "de": "Aufstrich",
+            "ru": "Паштет"
           },
           "metin": {
             "tr": "Günlük ezilen humus, otlu yoğurt ya da limonlu mayonez.",
             "en": "Hummus, herb yoghurt or lemon mayonnaise, made daily.",
-            "ar": "حمص أو لبن بالأعشاب أو مايونيز بالليمون، يُحضَّر يوميًا."
+            "ar": "حمص أو لبن بالأعشاب أو مايونيز بالليمون، يُحضَّر يوميًا.",
+            "de": "Täglich frisch gestampfter Hummus, Kräuterjoghurt oder Zitronenmayonnaise.",
+            "ru": "Ежедневно свежий хумус, йогурт с травами или лимонный майонез."
           },
           "etiket": {
             "tr": "2. katman",
             "en": "Layer 2",
-            "ar": "الطبقة 2"
+            "ar": "الطبقة 2",
+            "de": "2. Ebene",
+            "ru": "2-й слой"
           }
         },
         {
@@ -1621,17 +1985,23 @@
           "baslik": {
             "tr": "Yeşillik",
             "en": "Greens",
-            "ar": "الخضار الورقية"
+            "ar": "الخضار الورقية",
+            "de": "Grün",
+            "ru": "Зелень"
           },
           "metin": {
             "tr": "Roka, marul ve maydanoz sabah halden gelir.",
             "en": "Rocket, lettuce and parsley arrive from the morning market.",
-            "ar": "يصل الجرجير والخس والبقدونس من سوق الصباح."
+            "ar": "يصل الجرجير والخس والبقدونس من سوق الصباح.",
+            "de": "Rucola, Salat und Petersilie kommen morgens vom Großmarkt.",
+            "ru": "Руккола, салат и петрушка поступают утром с оптового рынка."
           },
           "etiket": {
             "tr": "3. katman",
             "en": "Layer 3",
-            "ar": "الطبقة 3"
+            "ar": "الطبقة 3",
+            "de": "Ebene 3",
+            "ru": "Слой 3"
           }
         },
         {
@@ -1639,17 +2009,23 @@
           "baslik": {
             "tr": "Dolgu",
             "en": "Filling",
-            "ar": "الحشوة"
+            "ar": "الحشوة",
+            "de": "Füllung",
+            "ru": "Наполнение"
           },
           "metin": {
             "tr": "Hellim, köfte, ton ya da közlenmiş sebze; tartıyla porsiyonlanır.",
             "en": "Halloumi, meatballs, tuna or roasted vegetables; portioned on the scale.",
-            "ar": "حلوم أو كفتة أو تونة أو خضار مشوية؛ تُوزن الحصص على الميزان."
+            "ar": "حلوم أو كفتة أو تونة أو خضار مشوية؛ تُوزن الحصص على الميزان.",
+            "de": "Halloumi, Frikadellen, Thunfisch oder gegrilltes Gemüse; nach Gewicht portioniert.",
+            "ru": "Халлуми, котлеты, тунец или овощи на гриле; порции отвешиваются."
           },
           "etiket": {
             "tr": "4. katman",
             "en": "Layer 4",
-            "ar": "الطبقة 4"
+            "ar": "الطبقة 4",
+            "de": "4. Schicht",
+            "ru": "4-й слой"
           }
         },
         {
@@ -1657,17 +2033,23 @@
           "baslik": {
             "tr": "Taban",
             "en": "Base",
-            "ar": "القاعدة"
+            "ar": "القاعدة",
+            "de": "Boden",
+            "ru": "Основание"
           },
           "metin": {
             "tr": "Gece yoğrulan, 18 saat mayalanan hamur.",
             "en": "Dough kneaded overnight and fermented for 18 hours.",
-            "ar": "عجين يُعجن ليلًا ويتخمّر 18 ساعة."
+            "ar": "عجين يُعجن ليلًا ويتخمّر 18 ساعة.",
+            "de": "Teig, der über Nacht geknetet wird und 18 Stunden gärt.",
+            "ru": "Тесто, замешанное ночью и выбродившее 18 часов."
           },
           "etiket": {
             "tr": "5. katman",
             "en": "Layer 5",
-            "ar": "الطبقة 5"
+            "ar": "الطبقة 5",
+            "de": "5. Ebene",
+            "ru": "Слой 5"
           }
         }
       ],
@@ -1712,17 +2094,23 @@
         "ust": {
           "tr": "Tahtadaki notlar",
           "en": "Notes on the board",
-          "ar": "ملاحظات على اللوح"
+          "ar": "ملاحظات على اللوح",
+          "de": "Notizen an der Tafel",
+          "ru": "Заметки на доске"
         },
         "baslik": {
           "tr": "Hangi baget, kaç puan?",
           "en": "Which baguette, what score?",
-          "ar": "أي باغيت، وكم نقطة؟"
+          "ar": "أي باغيت، وكم نقطة؟",
+          "de": "Welches Baguette, welche Punktzahl?",
+          "ru": "Какая багет, какой балл?"
         },
         "metin": {
           "tr": "Misafirlerin tezgâhtaki tahtaya yazdıkları; kurgusal demo yorumlar.",
           "en": "What guests wrote on the counter board; fictional demo reviews.",
-          "ar": "ما كتبه الضيوف على لوح المنضدة؛ تقييمات تجريبية افتراضية."
+          "ar": "ما كتبه الضيوف على لوح المنضدة؛ تقييمات تجريبية افتراضية.",
+          "de": "Was Gäste auf die Tafel am Tresen geschrieben haben; fiktive Demo-Bewertungen.",
+          "ru": "То, что гости написали на доске у прилавка; вымышленные демо-отзывы."
         },
         "bg": "#F4F1EA",
         "text": "#161A24",
@@ -1740,12 +2128,16 @@
         "badge": {
           "tr": "Tahtadaki notlar",
           "en": "Notes on the board",
-          "ar": "ملاحظات على اللوح"
+          "ar": "ملاحظات على اللوح",
+          "de": "Notizen an der Tafel",
+          "ru": "Заметки на доске"
         },
         "title": {
           "tr": "Hangi baget, kaç puan?",
           "en": "Which baguette, what score?",
-          "ar": "أي باغيت، وكم نقطة؟"
+          "ar": "أي باغيت، وكم نقطة؟",
+          "de": "Welches Baguette, welche Punktzahl?",
+          "ru": "Какая багет, какой балл?"
         },
         "description": ""
       },
@@ -1754,76 +2146,100 @@
           "baslik": {
             "tr": "Hellim ve domates",
             "en": "Halloumi and tomato",
-            "ar": "حلوم وطماطم"
+            "ar": "حلوم وطماطم",
+            "de": "Halloumi und Tomate",
+            "ru": "Халлуми и томат"
           },
           "puan": 5,
           "ad": "Elif Aksoy",
           "unvan": {
             "tr": "Komşu ofisten",
             "en": "From a nearby office",
-            "ar": "من مكتب مجاور"
+            "ar": "من مكتب مجاور",
+            "de": "Aus dem Nachbarbüro",
+            "ru": "Из соседнего офиса"
           },
           "metin": {
             "tr": "Saat 08:15'e ayarladım, vardığımda paket hazırdı; kabuk hâlâ sıcaktı.",
             "en": "I set it for 08:15 and the bag was ready when I arrived; the crust was still warm.",
-            "ar": "حدّدت الساعة 08:15 وكان الطلب جاهزًا عند وصولي؛ وكانت القشرة ما تزال دافئة."
+            "ar": "حدّدت الساعة 08:15 وكان الطلب جاهزًا عند وصولي؛ وكانت القشرة ما تزال دافئة.",
+            "de": "Ich hatte 08:15 Uhr eingestellt; bei meiner Ankunft war das Paket fertig, die Kruste noch warm.",
+            "ru": "Я поставил время 08:15; когда я пришёл, пакет был готов, корочка ещё была тёплой."
           }
         },
         {
           "baslik": {
             "tr": "Köfteli baget",
             "en": "Meatball baguette",
-            "ar": "باغيت بالكفتة"
+            "ar": "باغيت بالكفتة",
+            "de": "Baguette mit Fleischbällchen",
+            "ru": "Багет с фрикадельками"
           },
           "puan": 4,
           "ad": "Hakan Yalman",
           "unvan": {
             "tr": "Hafta sonu",
             "en": "Weekend",
-            "ar": "عطلة نهاية الأسبوع"
+            "ar": "عطلة نهاية الأسبوع",
+            "de": "Wochenende",
+            "ru": "Выходные"
           },
           "metin": {
             "tr": "Lezzet çok iyi; pazar günü öğleye doğru köfte bitmişti, erken gelmek lazım.",
             "en": "Great taste; on Sunday the meatballs had run out by noon, so come early.",
-            "ar": "المذاق رائع؛ نفدت الكفتة قرب الظهر يوم الأحد، فالأفضل المجيء باكرًا."
+            "ar": "المذاق رائع؛ نفدت الكفتة قرب الظهر يوم الأحد، فالأفضل المجيء باكرًا.",
+            "de": "Sehr lecker; am Sonntag waren die Kofta mittags ausverkauft, besser früh kommen.",
+            "ru": "Вкусно; в воскресенье к обеду кофты закончились, лучше приходить пораньше."
           }
         },
         {
           "baslik": {
             "tr": "Zeytinyağlı sebze",
             "en": "Olive-oil vegetables",
-            "ar": "خضار بزيت الزيتون"
+            "ar": "خضار بزيت الزيتون",
+            "de": "Gemüse in Olivenöl",
+            "ru": "Овощи на оливковом масле"
           },
           "puan": 5,
           "ad": "Nazli Erdem",
           "unvan": {
             "tr": "Öğrenci",
             "en": "Student",
-            "ar": "طالبة"
+            "ar": "طالبة",
+            "de": "Schüler",
+            "ru": "Ученик"
           },
           "metin": {
             "tr": "Bitkisel seçenek gerçekten doyurucu; humus bol.",
             "en": "The plant-based option is really filling, with plenty of hummus.",
-            "ar": "الخيار النباتي مُشبع حقًا، والحمص وفير."
+            "ar": "الخيار النباتي مُشبع حقًا، والحمص وفير.",
+            "de": "Die pflanzliche Option macht wirklich satt; viel Hummus.",
+            "ru": "Растительный вариант действительно сытный; хумуса много."
           }
         },
         {
           "baslik": {
             "tr": "Paylaşım boyu",
             "en": "Sharing size",
-            "ar": "حجم المشاركة"
+            "ar": "حجم المشاركة",
+            "de": "Länge zum Teilen",
+            "ru": "Длина для компании"
           },
           "puan": 5,
           "ad": "Burak Demir",
           "unvan": {
             "tr": "İki kişilik sabah",
             "en": "Breakfast for two",
-            "ar": "فطور لشخصين"
+            "ar": "فطور لشخصين",
+            "de": "Frühstück für zwei",
+            "ru": "Завтрак на двоих"
           },
           "metin": {
             "tr": "Dört dilime kesilmiş geldi, ikimize fazlasıyla yetti.",
             "en": "It came cut into four and was more than enough for the two of us.",
-            "ar": "جاء مقطّعًا إلى أربع قطع وكفانا نحن الاثنين وزيادة."
+            "ar": "جاء مقطّعًا إلى أربع قطع وكفانا نحن الاثنين وزيادة.",
+            "de": "Es kam in vier Scheiben geschnitten und reichte für uns beide mehr als aus.",
+            "ru": "Пришло нарезанным на четыре ломтика, и этого было более чем достаточно на двоих."
           }
         }
       ],
@@ -1872,24 +2288,32 @@
         "ust": {
           "tr": "Not panosu",
           "en": "Notice board",
-          "ar": "لوحة الملاحظات"
+          "ar": "لوحة الملاحظات",
+          "de": "Notizbrett",
+          "ru": "Доска заметок"
         },
         "baslik": {
           "tr": "Tezgâhta en çok sorulanlar",
           "en": "Most asked at the counter",
-          "ar": "الأكثر سؤالًا عند المنضدة"
+          "ar": "الأكثر سؤالًا عند المنضدة",
+          "de": "Die häufigsten Fragen an der Theke",
+          "ru": "Самые частые вопросы у прилавка"
         },
         "metin": {
           "tr": "Panoya iliştirdiğimiz kısa yanıtlar.",
           "en": "Short answers pinned to the board.",
-          "ar": "إجابات قصيرة مثبّتة على اللوحة."
+          "ar": "إجابات قصيرة مثبّتة على اللوحة.",
+          "de": "Kurze Antworten, die wir am Brett befestigt haben.",
+          "ru": "Короткие ответы, закреплённые на доске."
         },
         "tekAcik": "",
         "ilkAcik": "",
         "cta_ad": {
           "tr": "Gel-al saati seç",
           "en": "Pick a pick-up time",
-          "ar": "اختر وقت الاستلام"
+          "ar": "اختر وقت الاستلام",
+          "de": "Abholzeit wählen",
+          "ru": "Выберите время забора"
         },
         "cta_url": "teklif-al",
         "bg": "var(--mx-site-bg, #ffffff)",
@@ -1907,12 +2331,16 @@
         "badge": {
           "tr": "Not panosu",
           "en": "Notice board",
-          "ar": "لوحة الملاحظات"
+          "ar": "لوحة الملاحظات",
+          "de": "Notizbrett",
+          "ru": "Доска заметок"
         },
         "title": {
           "tr": "Tezgâhta en çok sorulanlar",
           "en": "Most asked at the counter",
-          "ar": "الأكثر سؤالًا عند المنضدة"
+          "ar": "الأكثر سؤالًا عند المنضدة",
+          "de": "Die häufigsten Fragen an der Theke",
+          "ru": "Самые частые вопросы у прилавка"
         },
         "description": ""
       },
@@ -1921,110 +2349,150 @@
           "question": {
             "tr": "Gel-al saatini nasıl seçerim?",
             "en": "How do I pick a pick-up time?",
-            "ar": "كيف أختار وقت الاستلام؟"
+            "ar": "كيف أختار وقت الاستلام؟",
+            "de": "Wie wähle ich eine Abholzeit?",
+            "ru": "Как выбрать время получения?"
           },
           "answer": {
             "tr": "Gel-al sayfasında günü ve saati çevirin, bagetleri işaretleyin; WhatsApp'ta hazır mesaj açılır, tezgâh onaylar.",
             "en": "On the pick-up page, turn the day and time wheels and tick your baguettes; a ready message opens in WhatsApp and the counter confirms.",
-            "ar": "في صفحة الاستلام أدِر عجلتي اليوم والساعة واختر الباغيت؛ تُفتح رسالة جاهزة في واتساب ويؤكدها المحل."
+            "ar": "في صفحة الاستلام أدِر عجلتي اليوم والساعة واختر الباغيت؛ تُفتح رسالة جاهزة في واتساب ويؤكدها المحل.",
+            "de": "Stellen Sie auf der Abholseite Tag und Uhrzeit ein und markieren Sie die Baguettes; in WhatsApp öffnet sich eine fertige Nachricht, die Theke bestätigt.",
+            "ru": "На странице самовывоза выберите день и время, отметьте багеты; в WhatsApp откроется готовое сообщение, прилавок подтвердит."
           },
           "soru": {
             "tr": "Gel-al saatini nasıl seçerim?",
             "en": "How do I pick a pick-up time?",
-            "ar": "كيف أختار وقت الاستلام؟"
+            "ar": "كيف أختار وقت الاستلام؟",
+            "de": "Wie wähle ich eine Abholzeit?",
+            "ru": "Как выбрать время получения?"
           },
           "cevap": {
             "tr": "Gel-al sayfasında günü ve saati çevirin, bagetleri işaretleyin; WhatsApp'ta hazır mesaj açılır, tezgâh onaylar.",
             "en": "On the pick-up page, turn the day and time wheels and tick your baguettes; a ready message opens in WhatsApp and the counter confirms.",
-            "ar": "في صفحة الاستلام أدِر عجلتي اليوم والساعة واختر الباغيت؛ تُفتح رسالة جاهزة في واتساب ويؤكدها المحل."
+            "ar": "في صفحة الاستلام أدِر عجلتي اليوم والساعة واختر الباغيت؛ تُفتح رسالة جاهزة في واتساب ويؤكدها المحل.",
+            "de": "Stellen Sie auf der Abholseite Tag und Uhrzeit ein und markieren Sie die Baguettes; in WhatsApp öffnet sich eine fertige Nachricht, die Theke bestätigt.",
+            "ru": "На странице самовывоза выберите день и время, отметьте багеты; в WhatsApp откроется готовое сообщение, прилавок подтвердит."
           }
         },
         {
           "question": {
             "tr": "Glütensiz ekmeğiniz var mı?",
             "en": "Do you have gluten-free bread?",
-            "ar": "هل لديكم خبز خالٍ من الغلوتين؟"
+            "ar": "هل لديكم خبز خالٍ من الغلوتين؟",
+            "de": "Haben Sie glutenfreies Brot?",
+            "ru": "Есть ли у вас безглютеновый хлеб?"
           },
           "answer": {
             "tr": "Hayır; aynı fırında un kullanıldığı için glütensiz ürün sunmuyoruz. Alerjen sorularınızı tezgâhta sorun.",
             "en": "No; flour is used in the same oven, so we do not offer gluten-free products. Ask about allergens at the counter.",
-            "ar": "لا؛ يُستخدم الطحين في الفرن نفسه، لذلك لا نقدّم منتجات خالية من الغلوتين. اسأل عن مسببات الحساسية عند المنضدة."
+            "ar": "لا؛ يُستخدم الطحين في الفرن نفسه، لذلك لا نقدّم منتجات خالية من الغلوتين. اسأل عن مسببات الحساسية عند المنضدة.",
+            "de": "Nein; da im selben Ofen Mehl verwendet wird, bieten wir keine glutenfreien Produkte an. Fragen zu Allergenen stellen Sie bitte am Tresen.",
+            "ru": "Нет; поскольку в этой же печи используется мука, безглютеновых продуктов мы не предлагаем. Вопросы об аллергенах задавайте у прилавка."
           },
           "soru": {
             "tr": "Glütensiz ekmeğiniz var mı?",
             "en": "Do you have gluten-free bread?",
-            "ar": "هل لديكم خبز خالٍ من الغلوتين؟"
+            "ar": "هل لديكم خبز خالٍ من الغلوتين؟",
+            "de": "Haben Sie glutenfreies Brot?",
+            "ru": "Есть ли у вас безглютеновый хлеб?"
           },
           "cevap": {
             "tr": "Hayır; aynı fırında un kullanıldığı için glütensiz ürün sunmuyoruz. Alerjen sorularınızı tezgâhta sorun.",
             "en": "No; flour is used in the same oven, so we do not offer gluten-free products. Ask about allergens at the counter.",
-            "ar": "لا؛ يُستخدم الطحين في الفرن نفسه، لذلك لا نقدّم منتجات خالية من الغلوتين. اسأل عن مسببات الحساسية عند المنضدة."
+            "ar": "لا؛ يُستخدم الطحين في الفرن نفسه، لذلك لا نقدّم منتجات خالية من الغلوتين. اسأل عن مسببات الحساسية عند المنضدة.",
+            "de": "Nein; da im selben Ofen Mehl verwendet wird, bieten wir keine glutenfreien Produkte an. Fragen zu Allergenen stellen Sie bitte am Tresen.",
+            "ru": "Нет; поскольку в этой же печи используется мука, безглютеновых продуктов мы не предлагаем. Вопросы об аллергенах задавайте у прилавка."
           }
         },
         {
           "question": {
             "tr": "Paylaşım boyu kaç kişilik?",
             "en": "How many people is the sharing size for?",
-            "ar": "لكم شخصًا يكفي حجم المشاركة؟"
+            "ar": "لكم شخصًا يكفي حجم المشاركة؟",
+            "de": "Für wie viele Personen ist die Sharing-Größe?",
+            "ru": "На сколько человек порция для компании?"
           },
           "answer": {
             "tr": "Bir buçuk baget uzunluğundadır; iki kişiye rahat yeter, dört dilime kesilir.",
             "en": "It is one and a half baguettes long; it comfortably feeds two and is cut into four pieces.",
-            "ar": "طوله باغيت ونصف؛ يكفي شخصين براحة ويُقطَّع إلى أربع قطع."
+            "ar": "طوله باغيت ونصف؛ يكفي شخصين براحة ويُقطَّع إلى أربع قطع.",
+            "de": "Es ist eineinhalb Baguettes lang; es reicht bequem für zwei Personen und wird in vier Stücke geschnitten.",
+            "ru": "Длина — полтора багета; этого достаточно на двоих, режется на четыре куска."
           },
           "soru": {
             "tr": "Paylaşım boyu kaç kişilik?",
             "en": "How many people is the sharing size for?",
-            "ar": "لكم شخصًا يكفي حجم المشاركة؟"
+            "ar": "لكم شخصًا يكفي حجم المشاركة؟",
+            "de": "Für wie viele Personen ist die Sharing-Größe?",
+            "ru": "На сколько человек порция для компании?"
           },
           "cevap": {
             "tr": "Bir buçuk baget uzunluğundadır; iki kişiye rahat yeter, dört dilime kesilir.",
             "en": "It is one and a half baguettes long; it comfortably feeds two and is cut into four pieces.",
-            "ar": "طوله باغيت ونصف؛ يكفي شخصين براحة ويُقطَّع إلى أربع قطع."
+            "ar": "طوله باغيت ونصف؛ يكفي شخصين براحة ويُقطَّع إلى أربع قطع.",
+            "de": "Es ist eineinhalb Baguettes lang; es reicht bequem für zwei Personen und wird in vier Stücke geschnitten.",
+            "ru": "Длина — полтора багета; этого достаточно на двоих, режется на четыре куска."
           }
         },
         {
           "question": {
             "tr": "Ofise toplu sipariş alıyor musunuz?",
             "en": "Do you take bulk orders for offices?",
-            "ar": "هل تقبلون طلبات جماعية للمكاتب؟"
+            "ar": "هل تقبلون طلبات جماعية للمكاتب؟",
+            "de": "Nehmen Sie Sammelbestellungen fürs Büro an?",
+            "ru": "Принимаете ли вы оптовые заказы для офиса?"
           },
           "answer": {
             "tr": "Evet, on adet ve üzeri için bir gün önceden yazın; etiketli kutuda teslim edilir.",
             "en": "Yes, for ten or more, write a day ahead; it comes in a labelled box.",
-            "ar": "نعم، لعشر قطع أو أكثر راسلنا قبل يوم؛ وتُسلَّم في علبة عليها ملصق."
+            "ar": "نعم، لعشر قطع أو أكثر راسلنا قبل يوم؛ وتُسلَّم في علبة عليها ملصق.",
+            "de": "Ja, ab zehn Stück bitte einen Tag vorher schreiben; Lieferung in beschrifteter Box.",
+            "ru": "Да, от десяти штук напишите за день; доставка в подписанной коробке."
           },
           "soru": {
             "tr": "Ofise toplu sipariş alıyor musunuz?",
             "en": "Do you take bulk orders for offices?",
-            "ar": "هل تقبلون طلبات جماعية للمكاتب؟"
+            "ar": "هل تقبلون طلبات جماعية للمكاتب؟",
+            "de": "Nehmen Sie Sammelbestellungen fürs Büro an?",
+            "ru": "Принимаете ли вы оптовые заказы для офиса?"
           },
           "cevap": {
             "tr": "Evet, on adet ve üzeri için bir gün önceden yazın; etiketli kutuda teslim edilir.",
             "en": "Yes, for ten or more, write a day ahead; it comes in a labelled box.",
-            "ar": "نعم، لعشر قطع أو أكثر راسلنا قبل يوم؛ وتُسلَّم في علبة عليها ملصق."
+            "ar": "نعم، لعشر قطع أو أكثر راسلنا قبل يوم؛ وتُسلَّم في علبة عليها ملصق.",
+            "de": "Ja, ab zehn Stück bitte einen Tag vorher schreiben; Lieferung in beschrifteter Box.",
+            "ru": "Да, от десяти штук напишите за день; доставка в подписанной коробке."
           }
         },
         {
           "question": {
             "tr": "Kupon her gün geçerli mi?",
             "en": "Is the coupon valid every day?",
-            "ar": "هل القسيمة صالحة كل يوم؟"
+            "ar": "هل القسيمة صالحة كل يوم؟",
+            "de": "Gilt der Gutschein jeden Tag?",
+            "ru": "Действует ли купон каждый день?"
           },
           "answer": {
             "tr": "Sabah kuponu pazartesi – cumartesi 09:00'a kadar, ikinci bagette geçerlidir (kurgusal kampanya).",
             "en": "The morning coupon is valid Monday to Saturday until 09:00, on the second baguette (fictional offer).",
-            "ar": "قسيمة الصباح صالحة من الاثنين إلى السبت حتى الساعة 09:00 على الباغيت الثاني (عرض افتراضي)."
+            "ar": "قسيمة الصباح صالحة من الاثنين إلى السبت حتى الساعة 09:00 على الباغيت الثاني (عرض افتراضي).",
+            "de": "Der Morgengutschein gilt Montag – Samstag bis 09:00 Uhr für das zweite Baguette (fiktive Aktion).",
+            "ru": "Утренний купон действует с понедельника по субботу до 09:00 на второй багет (вымышленная акция)."
           },
           "soru": {
             "tr": "Kupon her gün geçerli mi?",
             "en": "Is the coupon valid every day?",
-            "ar": "هل القسيمة صالحة كل يوم؟"
+            "ar": "هل القسيمة صالحة كل يوم؟",
+            "de": "Gilt der Gutschein jeden Tag?",
+            "ru": "Действует ли купон каждый день?"
           },
           "cevap": {
             "tr": "Sabah kuponu pazartesi – cumartesi 09:00'a kadar, ikinci bagette geçerlidir (kurgusal kampanya).",
             "en": "The morning coupon is valid Monday to Saturday until 09:00, on the second baguette (fictional offer).",
-            "ar": "قسيمة الصباح صالحة من الاثنين إلى السبت حتى الساعة 09:00 على الباغيت الثاني (عرض افتراضي)."
+            "ar": "قسيمة الصباح صالحة من الاثنين إلى السبت حتى الساعة 09:00 على الباغيت الثاني (عرض افتراضي).",
+            "de": "Der Morgengutschein gilt Montag – Samstag bis 09:00 Uhr für das zweite Baguette (fiktive Aktion).",
+            "ru": "Утренний купон действует с понедельника по субботу до 09:00 на второй багет (вымышленная акция)."
           }
         }
       ],
@@ -2068,22 +2536,30 @@
         "ust": {
           "tr": "Bize ulaşın",
           "en": "Get in touch",
-          "ar": "تواصل معنا"
+          "ar": "تواصل معنا",
+          "de": "Kontaktieren Sie uns",
+          "ru": "Свяжитесь с нами"
         },
         "baslik": {
           "tr": "Tezgâha tek dokunuşla",
           "en": "One tap to the counter",
-          "ar": "المنضدة بلمسة واحدة"
+          "ar": "المنضدة بلمسة واحدة",
+          "de": "Mit einem Tipp zur Theke",
+          "ru": "К стойке одним касанием"
         },
         "metin": {
           "tr": "Artı düğmesine dokunun: arama, WhatsApp ve e-posta dalları açılır. Toplu sipariş için bir gün önceden yazın.",
           "en": "Tap the plus button: call, WhatsApp and e-mail options open. For bulk orders, write a day ahead.",
-          "ar": "المس زر الزائد: تنفتح خيارات الاتصال وواتساب والبريد. للطلبات الجماعية راسلنا قبل يوم."
+          "ar": "المس زر الزائد: تنفتح خيارات الاتصال وواتساب والبريد. للطلبات الجماعية راسلنا قبل يوم.",
+          "de": "Tippen Sie auf das Plus-Zeichen: Optionen für Anruf, WhatsApp und E-Mail werden geöffnet. Für Großbestellungen schreiben Sie einen Tag im Voraus.",
+          "ru": "Нажмите на плюс: откроются варианты звонка, WhatsApp и электронной почты. Для оптовых заказов напишите за день до этого."
         },
         "adres": {
           "tr": "Gazimuhtar Paşa Bulvarı No: 27, Şehitkamil, Gaziantep (kurgusal adres)",
           "en": "27 Gazimuhtar Pasa Boulevard, Sehitkamil, Gaziantep (fictional address)",
-          "ar": "شارع غازي مختار باشا رقم 27، شهيد كامل، غازي عنتاب (عنوان افتراضي)"
+          "ar": "شارع غازي مختار باشا رقم 27، شهيد كامل، غازي عنتاب (عنوان افتراضي)",
+          "de": "Gazimuhtar Paşa Bulvarı No: 27, Şehitkamil, Gaziantep (fiktive Adresse)",
+          "ru": "Gazimuhtar Paşa Bulvarı No: 27, Şehitkamil, Gaziantep (вымышленный адрес)"
         },
         "telefon": "+90 342 024 77 31",
         "eposta": "gelal@kabukbaget.example",
@@ -2091,14 +2567,18 @@
         "saat": {
           "tr": "Pzt – Cmt 07:30 – 19:30 · Pazar 09:00 – 16:00",
           "en": "Mon – Sat 07:30 – 19:30 · Sun 09:00 – 16:00",
-          "ar": "الاثنين – السبت ‎07:30 – 19:30 · الأحد ‎09:00 – 16:00"
+          "ar": "الاثنين – السبت ‎07:30 – 19:30 · الأحد ‎09:00 – 16:00",
+          "de": "Mo – Sa 07:30 – 19:30 · Sonntag 09:00 – 16:00",
+          "ru": "Пн – Сб 07:30 – 19:30 · Воскресенье 09:00 – 16:00"
         },
         "haritaUrl": "",
         "haritaGomme": "",
         "waMesaj": {
           "tr": "Merhaba Kabuk Baget, gel-al siparişi vermek istiyorum.",
           "en": "Hello Kabuk Baget, I would like to place a pick-up order.",
-          "ar": "مرحبًا كابوك باغيت، أودّ تقديم طلب استلام."
+          "ar": "مرحبًا كابوك باغيت، أودّ تقديم طلب استلام.",
+          "de": "Hallo Kabuk Baget, ich möchte eine Abholbestellung aufgeben.",
+          "ru": "Здравствуйте, Kabuk Baget, я хочу сделать заказ на самовывоз."
         },
         "bg": "var(--mx-site-bg, #ffffff)",
         "text": "var(--mx-site-text, #111318)",
@@ -2116,36 +2596,48 @@
         "address": {
           "tr": "Gazimuhtar Paşa Bulvarı No: 27, Şehitkamil, Gaziantep (kurgusal adres)",
           "en": "27 Gazimuhtar Pasa Boulevard, Sehitkamil, Gaziantep (fictional address)",
-          "ar": "شارع غازي مختار باشا رقم 27، شهيد كامل، غازي عنتاب (عنوان افتراضي)"
+          "ar": "شارع غازي مختار باشا رقم 27، شهيد كامل، غازي عنتاب (عنوان افتراضي)",
+          "de": "Gazimuhtar Paşa Bulvarı No: 27, Şehitkamil, Gaziantep (fiktive Adresse)",
+          "ru": "Gazimuhtar Paşa Bulvarı No: 27, Şehitkamil, Gaziantep (вымышленный адрес)"
         },
         "phone": "+90 342 024 77 31",
         "email": "gelal@kabukbaget.example",
         "hours": {
           "tr": "Pzt – Cmt 07:30 – 19:30 · Pazar 09:00 – 16:00",
           "en": "Mon – Sat 07:30 – 19:30 · Sun 09:00 – 16:00",
-          "ar": "الاثنين – السبت ‎07:30 – 19:30 · الأحد ‎09:00 – 16:00"
+          "ar": "الاثنين – السبت ‎07:30 – 19:30 · الأحد ‎09:00 – 16:00",
+          "de": "Mo – Sa 07:30 – 19:30 · Sonntag 09:00 – 16:00",
+          "ru": "Пн – Сб 07:30 – 19:30 · Воскресенье 09:00 – 16:00"
         },
         "social": [],
         "title": {
           "tr": "Tezgâha tek dokunuşla",
           "en": "One tap to the counter",
-          "ar": "المنضدة بلمسة واحدة"
+          "ar": "المنضدة بلمسة واحدة",
+          "de": "Mit einem Tipp zur Theke",
+          "ru": "К стойке одним касанием"
         },
         "description": "",
         "panelTitle": {
           "tr": "Kabuk Baget",
           "en": "Kabuk Baget",
-          "ar": "Kabuk Baget"
+          "ar": "Kabuk Baget",
+          "de": "Kabuk Baget",
+          "ru": "Kabuk Baget"
         },
         "panelText": {
           "tr": "Görseller temsilidir; bu bir kurulum demosudur.",
           "en": "Images are representative; this is a setup demo.",
-          "ar": "الصور تمثيلية وهذا عرض تجريبي."
+          "ar": "الصور تمثيلية وهذا عرض تجريبي.",
+          "de": "Die Bilder sind symbolisch; dies ist eine Einrichtungs-Demo.",
+          "ru": "Изображения условные; это демонстрация установки."
         },
         "formTitle": {
           "tr": "Teklif formu",
           "en": "Quote form",
-          "ar": "نموذج الطلب"
+          "ar": "نموذج الطلب",
+          "de": "Angebotsformular",
+          "ru": "Форма запроса предложения"
         },
         "subjects": [
           {
@@ -2153,7 +2645,9 @@
             "name": {
               "tr": "Yeni talep",
               "en": "New request",
-              "ar": "طلب جديد"
+              "ar": "طلب جديد",
+              "de": "Neue Anfrage",
+              "ru": "Новый запрос"
             }
           },
           {
@@ -2161,7 +2655,9 @@
             "name": {
               "tr": "Ölçü ve keşif",
               "en": "Measure and survey",
-              "ar": "قياس واستقصاء"
+              "ar": "قياس واستقصاء",
+              "de": "Aufmaß und Besichtigung",
+              "ru": "Замеры и осмотр"
             }
           },
           {
@@ -2169,7 +2665,9 @@
             "name": {
               "tr": "Teknik soru",
               "en": "Technical question",
-              "ar": "سؤال فني"
+              "ar": "سؤال فني",
+              "de": "Technische Frage",
+              "ru": "Технический вопрос"
             }
           },
           {
@@ -2177,19 +2675,25 @@
             "name": {
               "tr": "Diğer",
               "en": "Other",
-              "ar": "أخرى"
+              "ar": "أخرى",
+              "de": "Sonstiges",
+              "ru": "Другое"
             }
           }
         ],
         "kvkkText": {
           "tr": "Kişisel verilerimin bu talebin yanıtlanması amacıyla işlenmesine ilişkin aydınlatma metnini okudum.",
           "en": "I have read the privacy notice on how my personal data is processed to answer this request.",
-          "ar": "لقد قرأت إشعار الخصوصية المتعلق بمعالجة بياناتي الشخصية للرد على هذا الطلب."
+          "ar": "لقد قرأت إشعار الخصوصية المتعلق بمعالجة بياناتي الشخصية للرد على هذا الطلب.",
+          "de": "Ich habe die Datenschutzerklärung zur Verarbeitung meiner personenbezogenen Daten zur Beantwortung dieser Anfrage gelesen.",
+          "ru": "Я ознакомился(лась) с уведомлением о конфиденциальности об обработке моих персональных данных для ответа на этот запрос."
         },
         "kvkkLinkText": {
           "tr": "Aydınlatma metni",
           "en": "Privacy notice",
-          "ar": "إشعار الخصوصية"
+          "ar": "إشعار الخصوصية",
+          "de": "Datenschutzhinweis",
+          "ru": "Информация об обработке данных"
         },
         "kvkkHref": "kisiselveriler"
       },
@@ -2199,12 +2703,16 @@
           "baslik": {
             "tr": "Gel-al",
             "en": "Pick-up",
-            "ar": "الاستلام"
+            "ar": "الاستلام",
+            "de": "Abholung",
+            "ru": "С собой"
           },
           "deger": {
             "tr": "Saatini seç, sırasız al",
             "en": "Pick a time, skip the queue",
-            "ar": "اختر الوقت وتجاوز الطابور"
+            "ar": "اختر الوقت وتجاوز الطابور",
+            "de": "Wählen Sie Ihre Zeit, holen Sie ohne Anstehen ab",
+            "ru": "Выберите время и получите без очереди"
           },
           "url": "teklif-al"
         }
@@ -2249,24 +2757,32 @@
         "ust": {
           "tr": "Baget tahtası",
           "en": "Baguette board",
-          "ar": "لوح الباغيت"
+          "ar": "لوح الباغيت",
+          "de": "Baguette-Brett",
+          "ru": "Доска для багетов"
         },
         "baslik": {
           "tr": "Boyunu seç, fiyat değişsin",
           "en": "Pick a size, the prices change",
-          "ar": "اختر الحجم فتتغيّر الأسعار"
+          "ar": "اختر الحجم فتتغيّر الأسعار",
+          "de": "Wählen Sie eine Größe, die Preise ändern sich",
+          "ru": "Выберите размер, цены изменятся"
         },
         "metin": {
           "tr": "Yarım, tam ya da paylaşım boyu: anahtarı çevirin, tahtadaki bütün fiyatlar birlikte değişir. Fiyatlar ve içerik kurgusaldır; görseller temsilîdir.",
           "en": "Half, full or sharing size: flip the switch and every price on the board changes together. Prices and content are fictional; images are representative.",
-          "ar": "نصف أو كامل أو حجم المشاركة: غيّر المفتاح فتتغيّر كل الأسعار على اللوح معًا. الأسعار والمحتوى افتراضية، والصور تمثيلية."
+          "ar": "نصف أو كامل أو حجم المشاركة: غيّر المفتاح فتتغيّر كل الأسعار على اللوح معًا. الأسعار والمحتوى افتراضية، والصور تمثيلية.",
+          "de": "Halbe, ganze oder Sharing-Größe: Drehen Sie den Schalter, und alle Preise auf der Tafel ändern sich mit. Preise und Inhalt sind fiktiv; die Bilder sind symbolisch.",
+          "ru": "Половинная, полная или порция для компании: поверните переключатель, и все цены на доске изменятся вместе с ним. Цены и содержание вымышлены; изображения условные."
         },
         "img": "",
         "img2": "",
         "cta_ad": {
           "tr": "Gel-al saati seç",
           "en": "Pick a pick-up time",
-          "ar": "اختر وقت الاستلام"
+          "ar": "اختر وقت الاستلام",
+          "de": "Abholzeit wählen",
+          "ru": "Выберите время забора"
         },
         "cta_url": "teklif-al",
         "cta2_ad": "",
@@ -2285,50 +2801,68 @@
         "p1Ad": {
           "tr": "Yarım",
           "en": "Half",
-          "ar": "نصف"
+          "ar": "نصف",
+          "de": "Halb",
+          "ru": "Половина"
         },
         "p2Ad": {
           "tr": "Tam",
           "en": "Full",
-          "ar": "كامل"
+          "ar": "كامل",
+          "de": "Voll",
+          "ru": "Полный"
         },
         "p3Ad": {
           "tr": "Paylaşım",
           "en": "Sharing",
-          "ar": "للمشاركة"
+          "ar": "للمشاركة",
+          "de": "Teilen",
+          "ru": "Поделиться"
         },
         "varsayilanPorsiyon": 2,
         "porsiyonAd": {
           "tr": "Baget boyu",
           "en": "Baguette size",
-          "ar": "حجم الباغيت"
+          "ar": "حجم الباغيت",
+          "de": "Baguettelänge",
+          "ru": "Длина багета"
         },
         "aciAd": {
           "tr": "Acılık",
           "en": "Heat level",
-          "ar": "درجة الحرارة"
+          "ar": "درجة الحرارة",
+          "de": "Schärfe",
+          "ru": "Острота"
         },
         "tahtaNot": {
           "tr": "Bütün bagetler sabah pişer; paylaşım boyu dört dilime kesilir. İçindekiler ve alerjenler için tezgâha sorun.",
           "en": "Every baguette is baked in the morning; the sharing size is cut into four. Ask at the counter for ingredients and allergens.",
-          "ar": "يُخبز كل باغيت صباحًا، ويُقطَّع حجم المشاركة إلى أربع قطع. اسأل عند المنضدة عن المكونات ومسببات الحساسية."
+          "ar": "يُخبز كل باغيت صباحًا، ويُقطَّع حجم المشاركة إلى أربع قطع. اسأل عند المنضدة عن المكونات ومسببات الحساسية.",
+          "de": "Alle Baguettes werden morgens gebacken; die Sharing-Größe wird in vier Stücke geschnitten. Zutaten und Allergene erfragen Sie an der Theke.",
+          "ru": "Все багеты выпекаются утром; порция для компании нарезается на четыре части. Состав и аллергены уточняйте у стойки."
         },
         "bgcolor": "#16213A",
         "color": "#F2EFE7",
         "title": {
           "tr": "Baget tahtası",
           "en": "Baguette board",
-          "ar": "لوح الباغيت"
+          "ar": "لوح الباغيت",
+          "de": "Baguette-Brett",
+          "ru": "Доска для багетов"
         },
         "name": {
           "tr": "Boyunu seç, fiyat değişsin",
           "en": "Pick a size, the prices change",
-          "ar": "اختر الحجم فتتغيّر الأسعار"
+          "ar": "اختر الحجم فتتغيّر الأسعار",
+          "de": "Wählen Sie eine Größe, die Preise ändern sich",
+          "ru": "Выберите размер, цены изменятся"
         },
         "description": {
           "tr": "Fiyatlar ve içerik kurgusaldır; görseller temsilîdir.",
           "en": "Prices and content are fictional; images are representative.",
-          "ar": "الأسعار والمحتوى افتراضية، والصور تمثيلية."
+          "ar": "الأسعار والمحتوى افتراضية، والصور تمثيلية.",
+          "de": "Preise und Inhalte sind fiktiv; Bilder sind exemplarisch.",
+          "ru": "Цены и контент вымышлены; изображения носят иллюстративный характер."
         },
         "name2": "",
         "spot2": "",
@@ -2343,12 +2877,16 @@
           "baslik": {
             "tr": "Hellim ve domates",
             "en": "Halloumi and tomato",
-            "ar": "حلوم وطماطم"
+            "ar": "حلوم وطماطم",
+            "de": "Halloumi und Tomate",
+            "ru": "Халлуми и томат"
           },
           "metin": {
             "tr": "Izgara hellim, kuru domates, roka.",
             "en": "Grilled halloumi, sun-dried tomato, rocket.",
-            "ar": "حلوم مشوي وطماطم مجففة وجرجير."
+            "ar": "حلوم مشوي وطماطم مجففة وجرجير.",
+            "de": "Gegrillter Halloumi, getrocknete Tomaten, Rucola.",
+            "ru": "Халлуми-гриль, вяленые томаты, руккола."
           },
           "fiyat": 95,
           "fiyat2": 165,
@@ -2356,7 +2894,9 @@
           "rozet": {
             "tr": "En çok seçilen",
             "en": "Most picked",
-            "ar": "الأكثر اختيارًا"
+            "ar": "الأكثر اختيارًا",
+            "de": "Am häufigsten gewählt",
+            "ru": "Самый популярный выбор"
           }
         },
         {
@@ -2364,12 +2904,16 @@
           "baslik": {
             "tr": "Sucuklu yumurta",
             "en": "Sujuk and egg",
-            "ar": "سجق وبيض"
+            "ar": "سجق وبيض",
+            "de": "Eier mit Sucuk",
+            "ru": "Яичница с суджуком"
           },
           "metin": {
             "tr": "Kasap sucuğu, sahanda yumurta, biber.",
             "en": "Butcher's sujuk, fried egg, pepper.",
-            "ar": "سجق الجزار وبيض مقلي وفلفل."
+            "ar": "سجق الجزار وبيض مقلي وفلفل.",
+            "de": "Metzger-Sucuk, Spiegelei, Paprika.",
+            "ru": "Суджук от мясника, яичница, перец."
           },
           "fiyat": 105,
           "fiyat2": 180,
@@ -2381,12 +2925,16 @@
           "baslik": {
             "tr": "Ton balıklı",
             "en": "Tuna",
-            "ar": "تونة"
+            "ar": "تونة",
+            "de": "Mit Thunfisch",
+            "ru": "С тунцом"
           },
           "metin": {
             "tr": "Ton, mısır, kapari, limonlu mayonez.",
             "en": "Tuna, sweetcorn, capers, lemon mayonnaise.",
-            "ar": "تونة وذرة وقبار ومايونيز بالليمون."
+            "ar": "تونة وذرة وقبار ومايونيز بالليمون.",
+            "de": "Thunfisch, Mais, Kapern, Zitronenmayonnaise.",
+            "ru": "Тунец, кукуруза, каперсы, лимонный майонез."
           },
           "fiyat": 110,
           "fiyat2": 190,
@@ -2397,12 +2945,16 @@
           "baslik": {
             "tr": "Köfteli baget",
             "en": "Meatball baguette",
-            "ar": "باغيت بالكفتة"
+            "ar": "باغيت بالكفتة",
+            "de": "Baguette mit Fleischbällchen",
+            "ru": "Багет с фрикадельками"
           },
           "metin": {
             "tr": "Izgara köfte, közlenmiş biber, sumaklı soğan.",
             "en": "Grilled meatballs, roasted pepper, sumac onion.",
-            "ar": "كفتة مشوية وفلفل مشوي وبصل بالسماق."
+            "ar": "كفتة مشوية وفلفل مشوي وبصل بالسماق.",
+            "de": "Gegrillte Köfte, geröstete Paprika, Zwiebeln mit Sumach.",
+            "ru": "Кюфте на гриле, печёный перец, лук с сумахом."
           },
           "fiyat": 125,
           "fiyat2": 215,
@@ -2414,12 +2966,16 @@
           "baslik": {
             "tr": "Zeytinyağlı sebze",
             "en": "Olive-oil vegetables",
-            "ar": "خضار بزيت الزيتون"
+            "ar": "خضار بزيت الزيتون",
+            "de": "Gemüse in Olivenöl",
+            "ru": "Овощи на оливковом масле"
           },
           "metin": {
             "tr": "Közlenmiş patlıcan, kabak, humus.",
             "en": "Roasted aubergine, courgette, hummus.",
-            "ar": "باذنجان وكوسا مشويان وحمص."
+            "ar": "باذنجان وكوسا مشويان وحمص.",
+            "de": "Gegrillte Aubergine, Zucchini, Hummus.",
+            "ru": "Запечённые на углях баклажаны, цуккини, хумус."
           },
           "fiyat": 85,
           "fiyat2": 150,
@@ -2427,7 +2983,9 @@
           "rozet": {
             "tr": "Bitkisel",
             "en": "Plant-based",
-            "ar": "نباتي"
+            "ar": "نباتي",
+            "de": "Pflanzlich",
+            "ru": "Растительный"
           }
         },
         {
@@ -2435,12 +2993,16 @@
           "baslik": {
             "tr": "Sade taş fırın baget",
             "en": "Plain stone-oven baguette",
-            "ar": "باغيت سادة من الفرن الحجري"
+            "ar": "باغيت سادة من الفرن الحجري",
+            "de": "Schlichtes Steinofen-Baguette",
+            "ru": "Простой багет из каменной печи"
           },
           "metin": {
             "tr": "Kabuğu çıtır, içi yumuşak; yanında tereyağı.",
             "en": "Crisp crust, soft crumb; butter on the side.",
-            "ar": "قشرة مقرمشة ولبّ طري؛ مع زبدة جانبًا."
+            "ar": "قشرة مقرمشة ولبّ طري؛ مع زبدة جانبًا.",
+            "de": "Knusprige Kruste, weiche Krume; Butter dazu.",
+            "ru": "Хрустящая корочка, мягкий мякиш; масло в комплекте."
           },
           "fiyat": 15,
           "fiyat2": 25,
@@ -2485,28 +3047,38 @@
         "ust": {
           "tr": "Sabah kuponu",
           "en": "Morning coupon",
-          "ar": "قسيمة الصباح"
+          "ar": "قسيمة الصباح",
+          "de": "Morgengutschein",
+          "ru": "Утренний купон"
         },
         "baslik": {
           "tr": "İkinci baget %20 indirimli",
           "en": "20% off the second baguette",
-          "ar": "خصم 20% على الباغيت الثاني"
+          "ar": "خصم 20% على الباغيت الثاني",
+          "de": "Zweites Baguette 20 % günstiger",
+          "ru": "Второй багет со скидкой 20 %"
         },
         "metin": {
           "tr": "Pazartesi – cumartesi 09:00'a kadar kodu tezgâhta ya da WhatsApp mesajında söyleyin; kurgusal kampanyadır.",
           "en": "Mention the code at the counter or in your WhatsApp message Monday to Saturday before 09:00; this is a fictional offer.",
-          "ar": "اذكر الرمز عند المنضدة أو في رسالة واتساب من الاثنين إلى السبت قبل الساعة 09:00؛ هذا عرض افتراضي."
+          "ar": "اذكر الرمز عند المنضدة أو في رسالة واتساب من الاثنين إلى السبت قبل الساعة 09:00؛ هذا عرض افتراضي.",
+          "de": "Montag bis Samstag bis 09:00 Uhr den Code an der Theke oder in der WhatsApp-Nachricht nennen; fiktive Aktion.",
+          "ru": "С понедельника по субботу до 09:00 назовите код у прилавка или напишите его в сообщении WhatsApp; вымышленная акция."
         },
         "btn1Text": {
           "tr": "Gel-al saati seç",
           "en": "Pick a pick-up time",
-          "ar": "اختر وقت الاستلام"
+          "ar": "اختر وقت الاستلام",
+          "de": "Abholzeit wählen",
+          "ru": "Выберите время забора"
         },
         "btn1Url": "teklif-al",
         "btn2Text": {
           "tr": "Menü",
           "en": "Menu",
-          "ar": "القائمة"
+          "ar": "القائمة",
+          "de": "Menü",
+          "ru": "Меню"
         },
         "btn2Url": "hizmetler",
         "img": "",
@@ -2515,30 +3087,40 @@
         "not": {
           "tr": "Paylaşım boyunda ve toplu siparişte geçerli değildir.",
           "en": "Not valid on the sharing size or bulk orders.",
-          "ar": "لا تسري على حجم المشاركة أو الطلبات الجماعية."
+          "ar": "لا تسري على حجم المشاركة أو الطلبات الجماعية.",
+          "de": "Gilt nicht für Sharing-Größen und Sammelbestellungen.",
+          "ru": "Не действует на порции для компании и на оптовые заказы."
         },
         "number": "903420247731",
         "numberText": "+90 342 024 77 31",
         "waLabel": {
           "tr": "WhatsApp'tan yaz",
           "en": "Write on WhatsApp",
-          "ar": "راسلنا عبر واتساب"
+          "ar": "راسلنا عبر واتساب",
+          "de": "Per WhatsApp schreiben",
+          "ru": "Написать в WhatsApp"
         },
         "waTitle": "",
         "waMessage": {
           "tr": "Merhaba Kabuk Baget, gel-al siparişi vermek istiyorum.",
           "en": "Hello Kabuk Baget, I would like to place a pick-up order.",
-          "ar": "مرحبًا كابوك باغيت، أودّ تقديم طلب استلام."
+          "ar": "مرحبًا كابوك باغيت، أودّ تقديم طلب استلام.",
+          "de": "Hallo Kabuk Baget, ich möchte eine Abholbestellung aufgeben.",
+          "ru": "Здравствуйте, Kabuk Baget, я хочу сделать заказ на самовывоз."
         },
         "hours": {
           "tr": "Pzt – Cmt 07:30 – 19:30 · Pazar 09:00 – 16:00",
           "en": "Mon – Sat 07:30 – 19:30 · Sun 09:00 – 16:00",
-          "ar": "الاثنين – السبت ‎07:30 – 19:30 · الأحد ‎09:00 – 16:00"
+          "ar": "الاثنين – السبت ‎07:30 – 19:30 · الأحد ‎09:00 – 16:00",
+          "de": "Mo – Sa 07:30 – 19:30 · Sonntag 09:00 – 16:00",
+          "ru": "Пн – Сб 07:30 – 19:30 · Воскресенье 09:00 – 16:00"
         },
         "hoursLabel": {
           "tr": "Tezgâh saatleri",
           "en": "Counter hours",
-          "ar": "ساعات المنضدة"
+          "ar": "ساعات المنضدة",
+          "de": "Zeiten am Tresen",
+          "ru": "Часы работы прилавка"
         },
         "bg": "var(--mx-site-surface, #f6f7f9)",
         "yaziRenk": "var(--mx-site-text, #111318)",
@@ -2554,12 +3136,16 @@
         "indirim": {
           "tr": "%20",
           "en": "20%",
-          "ar": "20%"
+          "ar": "20%",
+          "de": "20%",
+          "ru": "20%"
         },
         "gecerlilik": {
           "tr": "31 Aralık 2026'ya kadar",
           "en": "Until 31 December 2026",
-          "ar": "حتى 31 ديسمبر 2026"
+          "ar": "حتى 31 ديسمبر 2026",
+          "de": "Bis zum 31. Dezember 2026",
+          "ru": "До 31 декабря 2026 года"
         },
         "bgcolor": "var(--mx-site-surface, #f6f7f9)",
         "color": "var(--mx-site-text, #111318)",
@@ -2567,17 +3153,23 @@
         "title": {
           "tr": "İkinci baget %20 indirimli",
           "en": "20% off the second baguette",
-          "ar": "خصم 20% على الباغيت الثاني"
+          "ar": "خصم 20% على الباغيت الثاني",
+          "de": "Zweites Baguette 20 % günstiger",
+          "ru": "Второй багет со скидкой 20 %"
         },
         "btn1Label": {
           "tr": "Gel-al saati seç",
           "en": "Pick a pick-up time",
-          "ar": "اختر وقت الاستلام"
+          "ar": "اختر وقت الاستلام",
+          "de": "Abholzeit wählen",
+          "ru": "Выберите время забора"
         },
         "btn2Label": {
           "tr": "Menü",
           "en": "Menu",
-          "ar": "القائمة"
+          "ar": "القائمة",
+          "de": "Menü",
+          "ru": "Меню"
         },
         "description": ""
       },
@@ -2587,7 +3179,9 @@
           "baslik": {
             "tr": "09:00'a kadar",
             "en": "Until 09:00",
-            "ar": "حتى الساعة 09:00"
+            "ar": "حتى الساعة 09:00",
+            "de": "Bis 09:00",
+            "ru": "До 09:00"
           }
         },
         {
@@ -2595,7 +3189,9 @@
           "baslik": {
             "tr": "Tezgâhta ya da gel-al",
             "en": "At the counter or pick-up",
-            "ar": "عند المنضدة أو للاستلام"
+            "ar": "عند المنضدة أو للاستلام",
+            "de": "Am Tresen oder Abholung",
+            "ru": "За прилавком или самовывоз"
           }
         }
       ],
@@ -2640,19 +3236,25 @@
         "hakkinda": {
           "tr": "Kabuk Baget: Şehitkamil'de kurgusal taş fırın baget ve sandviç atölyesi; adres, fiyatlar ve içerik örnektir.",
           "en": "Kabuk Baget: a fictional stone-oven baguette and sandwich workshop in Sehitkamil; address, prices and content are examples.",
-          "ar": "كابوك باغيت: ورشة افتراضية للباغيت والسندويشات بالفرن الحجري في شهيد كامل؛ العنوان والأسعار والمحتوى أمثلة."
+          "ar": "كابوك باغيت: ورشة افتراضية للباغيت والسندويشات بالفرن الحجري في شهيد كامل؛ العنوان والأسعار والمحتوى أمثلة.",
+          "de": "Kabuk Baget: fiktive Steinofen-Bagette- und Sandwichwerkstatt in Şehitkamil; Adresse, Preise und Inhalte sind Beispiele.",
+          "ru": "Kabuk Baget: вымышленная мастерская багетов и сэндвичей из каменной печи в Şehitkamil; адрес, цены и содержимое — примеры."
         },
         "tel": "+90 342 024 77 31",
         "eposta": "gelal@kabukbaget.example",
         "adres": {
           "tr": "Gazimuhtar Paşa Bulvarı No: 27, Şehitkamil, Gaziantep (kurgusal adres)",
           "en": "27 Gazimuhtar Pasa Boulevard, Sehitkamil, Gaziantep (fictional address)",
-          "ar": "شارع غازي مختار باشا رقم 27، شهيد كامل، غازي عنتاب (عنوان افتراضي)"
+          "ar": "شارع غازي مختار باشا رقم 27، شهيد كامل، غازي عنتاب (عنوان افتراضي)",
+          "de": "Gazimuhtar Paşa Bulvarı No: 27, Şehitkamil, Gaziantep (fiktive Adresse)",
+          "ru": "Gazimuhtar Paşa Bulvarı No: 27, Şehitkamil, Gaziantep (вымышленный адрес)"
         },
         "cta_ad": {
           "tr": "Gel-al saati seç",
           "en": "Pick a pick-up time",
-          "ar": "اختر وقت الاستلام"
+          "ar": "اختر وقت الاستلام",
+          "de": "Abholzeit wählen",
+          "ru": "Выберите время забора"
         },
         "cta_url": "teklif-al",
         "rightsText": "",
@@ -2676,12 +3278,16 @@
         "about": {
           "tr": "Kabuk Baget: Şehitkamil'de kurgusal baget atölyesi.",
           "en": "Kabuk Baget: a fictional baguette workshop in Sehitkamil.",
-          "ar": "كابوك باغيت: ورشة باغيت افتراضية في شهيد كامل."
+          "ar": "كابوك باغيت: ورشة باغيت افتراضية في شهيد كامل.",
+          "de": "Kabuk Baget: fiktive Baguette-Werkstatt in Şehitkamil.",
+          "ru": "Kabuk Baget: вымышленная багетная мастерская в Шехиткамиле."
         },
         "address": {
           "tr": "Gazimuhtar Paşa Bulvarı No: 27, Şehitkamil, Gaziantep (kurgusal adres)",
           "en": "27 Gazimuhtar Pasa Boulevard, Sehitkamil, Gaziantep (fictional address)",
-          "ar": "شارع غازي مختار باشا رقم 27، شهيد كامل، غازي عنتاب (عنوان افتراضي)"
+          "ar": "شارع غازي مختار باشا رقم 27، شهيد كامل، غازي عنتاب (عنوان افتراضي)",
+          "de": "Gazimuhtar Paşa Bulvarı No: 27, Şehitkamil, Gaziantep (fiktive Adresse)",
+          "ru": "Gazimuhtar Paşa Bulvarı No: 27, Şehitkamil, Gaziantep (вымышленный адрес)"
         },
         "phone": "+90 342 024 77 31",
         "email": "gelal@kabukbaget.example",
@@ -2691,7 +3297,9 @@
             "name": {
               "tr": "KVKK",
               "en": "Privacy (KVKK)",
-              "ar": "حماية البيانات"
+              "ar": "حماية البيانات",
+              "de": "Datenschutz (KVKK)",
+              "ru": "Закон о защите данных (KVKK)"
             },
             "href": "kisiselveriler"
           },
@@ -2699,7 +3307,9 @@
             "name": {
               "tr": "Gizlilik",
               "en": "Privacy policy",
-              "ar": "سياسة الخصوصية"
+              "ar": "سياسة الخصوصية",
+              "de": "Datenschutz",
+              "ru": "Конфиденциальность"
             },
             "href": "gizlilikpolitikasi"
           },
@@ -2707,7 +3317,9 @@
             "name": {
               "tr": "Yasal uyarı",
               "en": "Legal notice",
-              "ar": "إشعار قانوني"
+              "ar": "إشعار قانوني",
+              "de": "Rechtlicher Hinweis",
+              "ru": "Правовое уведомление"
             },
             "href": "yasaluyari"
           }
@@ -2715,17 +3327,23 @@
         "nlTitle": {
           "tr": "Haberdar olun",
           "en": "Stay informed",
-          "ar": "ابقَ على اطلاع"
+          "ar": "ابقَ على اطلاع",
+          "de": "Bleiben Sie informiert",
+          "ru": "Будьте в курсе"
         },
         "nlText": {
           "tr": "Yeni duyurular için e-posta bırakın. Bu demo sitede veri saklanmaz.",
           "en": "Leave your e-mail for new announcements. No data is stored on this demo site.",
-          "ar": "اترك بريدك الإلكتروني للإعلانات الجديدة. لا تُحفظ أي بيانات في هذا الموقع التجريبي."
+          "ar": "اترك بريدك الإلكتروني للإعلانات الجديدة. لا تُحفظ أي بيانات في هذا الموقع التجريبي.",
+          "de": "Hinterlassen Sie Ihre E-Mail für neue Ankündigungen. Auf dieser Demo-Website werden keine Daten gespeichert.",
+          "ru": "Оставьте e-mail, чтобы получать новые анонсы. На этом демо-сайте данные не сохраняются."
         },
         "nlKvkk": {
           "tr": "E-postanız yalnızca duyuru göndermek için kullanılır; dilediğiniz an listeden çıkabilirsiniz.",
           "en": "Your e-mail is used only to send announcements; you can leave the list at any time.",
-          "ar": "يُستخدم بريدك الإلكتروني لإرسال الإعلانات فقط، ويمكنك إلغاء الاشتراك في أي وقت."
+          "ar": "يُستخدم بريدك الإلكتروني لإرسال الإعلانات فقط، ويمكنك إلغاء الاشتراك في أي وقت.",
+          "de": "Ihre E-Mail-Adresse wird nur für den Versand von Ankündigungen verwendet; Sie können sich jederzeit abmelden.",
+          "ru": "Ваш e-mail используется только для рассылки объявлений; вы можете отписаться в любой момент."
         },
         "services": [],
         "hours": [
@@ -2733,7 +3351,9 @@
             "days": {
               "tr": "Pzt – Cmt",
               "en": "Mon – Sat",
-              "ar": "الاثنين – السبت"
+              "ar": "الاثنين – السبت",
+              "de": "Mo – Sa",
+              "ru": "Пн – Сб"
             },
             "time": "07:30 – 19:30"
           },
@@ -2741,7 +3361,9 @@
             "days": {
               "tr": "Pazar",
               "en": "Sunday",
-              "ar": "الأحد"
+              "ar": "الأحد",
+              "de": "Sonntag",
+              "ru": "Воскресенье"
             },
             "time": "09:00 – 16:00"
           }
@@ -2749,7 +3371,9 @@
         "title_hours": {
           "tr": "Fırın saatleri",
           "en": "Bakery hours",
-          "ar": "ساعات المخبز"
+          "ar": "ساعات المخبز",
+          "de": "Backzeiten",
+          "ru": "Часы выпечки"
         }
       },
       "data": [],
@@ -2798,22 +3422,30 @@
         "ust": {
           "tr": "Kabuk Baget · taş fırın sandviç",
           "en": "Kabuk Baget · stone-oven sandwiches",
-          "ar": "كابوك باغيت · سندويشات الفرن الحجري"
+          "ar": "كابوك باغيت · سندويشات الفرن الحجري",
+          "de": "Kabuk Baget · Steinofen-Sandwich",
+          "ru": "Kabuk Baget · сэндвич из каменной печи"
         },
         "baslik": {
           "tr": "Taş fırından çıkan baget, katman katman sandviç",
           "en": "Stone-oven baguettes, layered sandwiches",
-          "ar": "باغيت من الفرن الحجري وسندويشات بطبقات"
+          "ar": "باغيت من الفرن الحجري وسندويشات بطبقات",
+          "de": "Baguette aus dem Steinofen, Sandwich Schicht für Schicht",
+          "ru": "Багет из каменной печи, сэндвич слой за слоем"
         },
         "metin": {
           "tr": "Fırın, kahvaltı ve tatlı rafları: rafı yana kaydırın, ne çıktığını görün. Fiyatlar ve içerik kurgusaldır; görseller temsilîdir.",
           "en": "Bakery, breakfast and sweet shelves: slide a shelf sideways to see what is out. Prices and content are fictional; images are representative.",
-          "ar": "رفوف المخبز والفطور والحلويات: اسحب الرف جانبًا لترى ما خرج من الفرن. الأسعار والمحتوى افتراضية، والصور تمثيلية."
+          "ar": "رفوف المخبز والفطور والحلويات: اسحب الرف جانبًا لترى ما خرج من الفرن. الأسعار والمحتوى افتراضية، والصور تمثيلية.",
+          "de": "Regale für Ofenware, Frühstück und Süßes: Schieben Sie das Regal zur Seite und sehen Sie, was frisch ist. Preise und Inhalte sind fiktiv; die Bilder sind symbolisch.",
+          "ru": "Полки с выпечкой, завтраками и десертами: сдвиньте полку в сторону и посмотрите, что есть. Цены и содержание вымышленные; изображения носят иллюстративный характер."
         },
         "tumu": {
           "tr": "Tümü",
           "en": "All",
-          "ar": "الكل"
+          "ar": "الكل",
+          "de": "Alle",
+          "ru": "Все"
         },
         "bg": "var(--mx-site-bg, #ffffff)",
         "text": "var(--mx-site-text, #111318)",
@@ -2833,7 +3465,9 @@
             "name": {
               "tr": "Fırından",
               "en": "From the oven",
-              "ar": "من الفرن"
+              "ar": "من الفرن",
+              "de": "Frisch aus dem Ofen",
+              "ru": "Из печи"
             }
           },
           {
@@ -2841,7 +3475,9 @@
             "name": {
               "tr": "Kahvaltı",
               "en": "Breakfast",
-              "ar": "الفطور"
+              "ar": "الفطور",
+              "de": "Frühstück",
+              "ru": "Завтрак"
             }
           },
           {
@@ -2849,7 +3485,9 @@
             "name": {
               "tr": "Tatlı",
               "en": "Sweets",
-              "ar": "الحلويات"
+              "ar": "الحلويات",
+              "de": "Dessert",
+              "ru": "Десерт"
             }
           }
         ]
@@ -2861,17 +3499,23 @@
           "baslik": {
             "tr": "Sabah bageti",
             "en": "Morning baguette",
-            "ar": "باغيت الصباح"
+            "ar": "باغيت الصباح",
+            "de": "Morgenbaguette",
+            "ru": "Утренний багет"
           },
           "alt": {
             "tr": "Dilimlenmiş ekmek, zeytin ve bal kavanozu",
             "en": "Sliced bread, olives and a jar of honey",
-            "ar": "خبز مقطّع وزيتون ومرطبان عسل"
+            "ar": "خبز مقطّع وزيتون ومرطبان عسل",
+            "de": "Gehacktes Brot, Oliven und ein Honigglas",
+            "ru": "Нарезанный хлеб, оливки и банка мёда"
           },
           "metin": {
             "tr": "07:30 fırını; dilimlenip zeytinle gelir.",
             "en": "The 07:30 bake; sliced, with olives.",
-            "ar": "خبزة 07:30؛ مقطّع مع الزيتون."
+            "ar": "خبزة 07:30؛ مقطّع مع الزيتون.",
+            "de": "Aus dem 07:30-Ofen; kommt geschnitten mit Oliven.",
+            "ru": "Из печи в 07:30; подаётся нарезанным, с оливками."
           }
         },
         {
@@ -2880,17 +3524,23 @@
           "baslik": {
             "tr": "Gece hamuru",
             "en": "Overnight dough",
-            "ar": "عجين الليل"
+            "ar": "عجين الليل",
+            "de": "Nachteig",
+            "ru": "Ночное тесто"
           },
           "alt": {
             "tr": "Unlu tezgâhta hamur yoğuran eller",
             "en": "Hands kneading dough on a floured counter",
-            "ar": "يدان تعجنان العجين على منضدة مغطاة بالطحين"
+            "ar": "يدان تعجنان العجين على منضدة مغطاة بالطحين",
+            "de": "Hände, die auf der Mehltheke Teig kneten",
+            "ru": "Руки, месящие тесто на мучном столе"
           },
           "metin": {
             "tr": "18 saat mayalanır, elde şekillenir.",
             "en": "Fermented 18 hours, shaped by hand.",
-            "ar": "يتخمّر 18 ساعة ويُشكَّل باليد."
+            "ar": "يتخمّر 18 ساعة ويُشكَّل باليد.",
+            "de": "18 Stunden gereift, von Hand geformt.",
+            "ru": "Выдерживается 18 часов, формуется вручную."
           }
         },
         {
@@ -2899,17 +3549,23 @@
           "baslik": {
             "tr": "Tezgâh",
             "en": "The counter",
-            "ar": "المنضدة"
+            "ar": "المنضدة",
+            "de": "Theke",
+            "ru": "Прилавок"
           },
           "alt": {
             "tr": "Ahşap tabureli açık mutfak tezgâhı",
             "en": "An open kitchen counter with wooden stools",
-            "ar": "منضدة مطبخ مفتوح بمقاعد خشبية"
+            "ar": "منضدة مطبخ مفتوح بمقاعد خشبية",
+            "de": "Offene Küchentheke mit Holzhockern",
+            "ru": "Открытая кухонная стойка с деревянными табуретами"
           },
           "metin": {
             "tr": "Gel-al paketleri burada bekler.",
             "en": "Pick-up bags wait here.",
-            "ar": "تنتظر طلبات الاستلام هنا."
+            "ar": "تنتظر طلبات الاستلام هنا.",
+            "de": "Hier warten die Abholpakete.",
+            "ru": "Здесь ждут пакеты для самовывоза."
           }
         },
         {
@@ -2918,17 +3574,23 @@
           "baslik": {
             "tr": "Bal ve petek",
             "en": "Honey and comb",
-            "ar": "عسل وشمع"
+            "ar": "عسل وشمع",
+            "de": "Honig und Wabe",
+            "ru": "Мёд и соты"
           },
           "alt": {
             "tr": "Bal kavanozu ve petek",
             "en": "A jar of honey and honeycomb",
-            "ar": "مرطبان عسل وقرص شمع"
+            "ar": "مرطبان عسل وقرص شمع",
+            "de": "Honigglas und Wabe",
+            "ru": "Банка мёда и соты"
           },
           "metin": {
             "tr": "Tereyağlı bagete eşlik eder.",
             "en": "Goes with the buttered baguette.",
-            "ar": "يرافق الباغيت بالزبدة."
+            "ar": "يرافق الباغيت بالزبدة.",
+            "de": "Passt zum Baguette mit Butter.",
+            "ru": "Хорошо сочетается с багетом со сливочным маслом."
           }
         },
         {
@@ -2937,17 +3599,23 @@
           "baslik": {
             "tr": "Fıstık ezmesi",
             "en": "Pistachio spread",
-            "ar": "زبدة الفستق"
+            "ar": "زبدة الفستق",
+            "de": "Pistaziencreme",
+            "ru": "Фисташковая паста"
           },
           "alt": {
             "tr": "Kaşıklı fıstık ezmesi kavanozu",
             "en": "A jar of pistachio spread with a spoon",
-            "ar": "مرطبان زبدة فستق مع ملعقة"
+            "ar": "مرطبان زبدة فستق مع ملعقة",
+            "de": "Glas Pistazienmus mit Löffel",
+            "ru": "Банка писташиевой пасты с ложкой"
           },
           "metin": {
             "tr": "Kavanozda, gel-alda eklenebilir.",
             "en": "In a jar; add it to your pick-up.",
-            "ar": "في مرطبان؛ يمكن إضافته إلى طلب الاستلام."
+            "ar": "في مرطبان؛ يمكن إضافته إلى طلب الاستلام.",
+            "de": "Im Glas; Abholung vor Ort möglich.",
+            "ru": "В банке, можно добавить при самовывозе."
           }
         },
         {
@@ -2956,17 +3624,23 @@
           "baslik": {
             "tr": "Ev reçeli",
             "en": "House jam",
-            "ar": "مربى منزلي"
+            "ar": "مربى منزلي",
+            "de": "Hausgemachte Marmelade",
+            "ru": "Домашнее варенье"
           },
           "alt": {
             "tr": "Kumaş kapaklı reçel kavanozları",
             "en": "Jam jars with cloth lids",
-            "ar": "مرطبانات مربى بأغطية قماشية"
+            "ar": "مرطبانات مربى بأغطية قماشية",
+            "de": "Marmeladengläser mit Stoffdeckel",
+            "ru": "Банки с джемом с тканевыми крышками"
           },
           "metin": {
             "tr": "Mevsim meyvesinden, haftalık.",
             "en": "Weekly, from seasonal fruit.",
-            "ar": "أسبوعيًا من فاكهة الموسم."
+            "ar": "أسبوعيًا من فاكهة الموسم.",
+            "de": "Aus Früchten der Saison, wöchentlich.",
+            "ru": "Из сезонных фруктов, еженедельно."
           }
         },
         {
@@ -2975,17 +3649,23 @@
           "baslik": {
             "tr": "Fıstıklı kurabiye",
             "en": "Pistachio cookies",
-            "ar": "كعك بالفستق"
+            "ar": "كعك بالفستق",
+            "de": "Kekse mit Pistazien",
+            "ru": "Печенье с фисташками"
           },
           "alt": {
             "tr": "Tabakta fıstıklı kurabiyeler",
             "en": "Pistachio cookies on a plate",
-            "ar": "كعك بالفستق على طبق"
+            "ar": "كعك بالفستق على طبق",
+            "de": "Pistazienkekse auf dem Teller",
+            "ru": "Фисташковое печенье на тарелке"
           },
           "metin": {
             "tr": "Kahvenin yanına iki tane.",
             "en": "Two alongside your coffee.",
-            "ar": "قطعتان بجانب القهوة."
+            "ar": "قطعتان بجانب القهوة.",
+            "de": "Zwei Stück zum Kaffee.",
+            "ru": "Два кусочка к кофе."
           }
         },
         {
@@ -2994,17 +3674,23 @@
           "baslik": {
             "tr": "Tepsi baklava",
             "en": "Tray baklava",
-            "ar": "بقلاوة الصينية"
+            "ar": "بقلاوة الصينية",
+            "de": "Baklava vom Blech",
+            "ru": "Баклава на противне"
           },
           "alt": {
             "tr": "Tepside fıstıklı baklava dilimleri",
             "en": "Pistachio baklava slices in a tray",
-            "ar": "قطع بقلاوة بالفستق في صينية"
+            "ar": "قطع بقلاوة بالفستق في صينية",
+            "de": "Pistazien-Baklava-Stücke auf dem Tablett",
+            "ru": "Куски пахлавы с фисташками на подносе"
           },
           "metin": {
             "tr": "Cuma ve cumartesi.",
             "en": "Fridays and Saturdays.",
-            "ar": "الجمعة والسبت."
+            "ar": "الجمعة والسبت.",
+            "de": "Freitags und samstags.",
+            "ru": "По пятницам и субботам."
           }
         }
       ],
@@ -3052,17 +3738,23 @@
         "ust": {
           "tr": "Gel-al",
           "en": "Pick-up",
-          "ar": "الاستلام"
+          "ar": "الاستلام",
+          "de": "Abholung",
+          "ru": "С собой"
         },
         "baslik": {
           "tr": "Çarkı çevir, bagetin hazır olsun",
           "en": "Turn the wheel, your baguette will be ready",
-          "ar": "أدِر العجلة ليكون الباغيت جاهزًا"
+          "ar": "أدِر العجلة ليكون الباغيت جاهزًا",
+          "de": "Drehe das Rad, dein Baguette ist bereit",
+          "ru": "Крути колесо, твой багет будет готов"
         },
         "metin": {
           "tr": "Gel-al pazartesi – cumartesi 07:30 – 19:30 arasıdır. Günü ve saati çevirin, bagetleri seçin; WhatsApp'ta hazır mesaj açılır, tezgâh onaylar. Ödeme tezgâhta; site üzerinden ödeme alınmaz. Bu form demodur; veri saklanmaz.",
           "en": "Pick-up runs Monday to Saturday, 07:30 – 19:30. Turn the day and time wheels and choose your baguettes; a ready message opens in WhatsApp and the counter confirms. Payment at the counter; no payment is taken on the site. This form is a demo; no data is stored.",
-          "ar": "الاستلام من الاثنين إلى السبت بين 07:30 و19:30. أدِر عجلتي اليوم والساعة واختر الباغيت؛ تُفتح رسالة جاهزة في واتساب ويؤكدها المحل. الدفع عند المنضدة؛ لا يُقبل أي دفع عبر الموقع. هذا النموذج تجريبي؛ لا تُحفظ أي بيانات."
+          "ar": "الاستلام من الاثنين إلى السبت بين 07:30 و19:30. أدِر عجلتي اليوم والساعة واختر الباغيت؛ تُفتح رسالة جاهزة في واتساب ويؤكدها المحل. الدفع عند المنضدة؛ لا يُقبل أي دفع عبر الموقع. هذا النموذج تجريبي؛ لا تُحفظ أي بيانات.",
+          "de": "Abholung Montag – Samstag, 07:30 – 19:30 Uhr. Drehen Sie die Räder für Tag und Uhrzeit und wählen Sie Ihre Baguettes; eine vorbereitete Nachricht öffnet sich in WhatsApp und der Tresen bestätigt. Zahlung am Tresen; keine Zahlung über die Website. Dieses Formular ist eine Demo; es werden keine Daten gespeichert.",
+          "ru": "Самовывоз с понедельника по субботу, 07:30 – 19:30. Поверните колесики выбора дня и времени и выберите багеты; в WhatsApp откроется готовое сообщение, а прилавок подтвердит заказ. Оплата на прилавке; оплата через сайт не принимается. Эта форма является демо; данные не сохраняются."
         },
         "bg": "#16213A",
         "text": "#F2EFE7",
@@ -3083,7 +3775,9 @@
         "location": {
           "tr": "Gazimuhtar Paşa Bulvarı No: 27, Şehitkamil, Gaziantep (kurgusal adres)",
           "en": "27 Gazimuhtar Pasa Boulevard, Sehitkamil, Gaziantep (fictional address)",
-          "ar": "شارع غازي مختار باشا رقم 27، شهيد كامل، غازي عنتاب (عنوان افتراضي)"
+          "ar": "شارع غازي مختار باشا رقم 27، شهيد كامل، غازي عنتاب (عنوان افتراضي)",
+          "de": "Gazimuhtar Paşa Bulvarı No: 27, Şehitkamil, Gaziantep (fiktive Adresse)",
+          "ru": "Gazimuhtar Paşa Bulvarı No: 27, Şehitkamil, Gaziantep (вымышленный адрес)"
         },
         "leadDays": 0,
         "maxDays": 7,
@@ -3107,45 +3801,61 @@
         "hizmetAd": {
           "tr": "Ne alacaksınız?",
           "en": "What will you take?",
-          "ar": "ماذا ستأخذ؟"
+          "ar": "ماذا ستأخذ؟",
+          "de": "Was bekommen Sie?",
+          "ru": "Что вы получите?"
         },
         "tarihAd": {
           "tr": "Gün",
           "en": "Day",
-          "ar": "اليوم"
+          "ar": "اليوم",
+          "de": "Tag",
+          "ru": "День"
         },
         "saatAd": {
           "tr": "Gel-al saati",
           "en": "Pick-up time",
-          "ar": "وقت الاستلام"
+          "ar": "وقت الاستلام",
+          "de": "Abholzeit",
+          "ru": "Время получения"
         },
         "submitWhatsapp": {
           "tr": "WhatsApp'ta gönder",
           "en": "Send on WhatsApp",
-          "ar": "أرسل عبر واتساب"
+          "ar": "أرسل عبر واتساب",
+          "de": "Per WhatsApp senden",
+          "ru": "Отправить в WhatsApp"
         },
         "kvkk": {
           "text": {
             "tr": "Kişisel verilerimin yalnız bu gel-al talebi için işlenmesine ilişkin aydınlatma metnini okudum.",
             "en": "I have read the privacy notice on how my personal data is processed only for this pick-up request.",
-            "ar": "لقد قرأتُ إشعار الخصوصية المتعلق بمعالجة بياناتي الشخصية لطلب الاستلام هذا فقط."
+            "ar": "لقد قرأتُ إشعار الخصوصية المتعلق بمعالجة بياناتي الشخصية لطلب الاستلام هذا فقط.",
+            "de": "Ich habe die Datenschutzerklärung zur Verarbeitung meiner personenbezogenen Daten ausschließlich für diese Abholanfrage gelesen.",
+            "ru": "Я ознакомился с уведомлением о конфиденциальности об обработке моих персональных данных исключительно для этой заявки на самовывоз."
           },
           "href": "kisiselveriler"
         },
         "kvkkLink": {
           "tr": "Aydınlatma metni",
           "en": "Privacy notice",
-          "ar": "إشعار الخصوصية"
+          "ar": "إشعار الخصوصية",
+          "de": "Datenschutzhinweis",
+          "ru": "Информация об обработке данных"
         },
         "successText": {
           "tr": "Mesajınız hazır; sipariş tezgâhın onayıyla kesinleşir. (Demo)",
           "en": "Your message is ready; the order is confirmed once the counter approves it. (Demo)",
-          "ar": "رسالتك جاهزة؛ ويُؤكَّد الطلب بعد موافقة المحل. (تجريبي)"
+          "ar": "رسالتك جاهزة؛ ويُؤكَّد الطلب بعد موافقة المحل. (تجريبي)",
+          "de": "Ihre Nachricht ist bereit; die Bestellung wird bestätigt, sobald die Theke sie genehmigt. (Demo)",
+          "ru": "Ваше сообщение готово; заказ подтверждается после одобрения стойкой. (Демо)"
         },
         "konu": {
           "tr": "Gel-al siparişi",
           "en": "Pick-up order",
-          "ar": "طلب استلام"
+          "ar": "طلب استلام",
+          "de": "Abholbestellung",
+          "ru": "Заказ с самовывозом"
         }
       },
       "data": [
@@ -3153,7 +3863,9 @@
           "ad": {
             "tr": "Hellim ve domates · tam",
             "en": "Halloumi and tomato · full",
-            "ar": "حلوم وطماطم · كامل"
+            "ar": "حلوم وطماطم · كامل",
+            "de": "Halloumi und Tomate · ganz",
+            "ru": "Халлуми и помидор · целый"
           },
           "sure": 10,
           "fiyat": 165,
@@ -3161,14 +3873,18 @@
           "metin": {
             "tr": "En çok seçilen.",
             "en": "Most picked.",
-            "ar": "الأكثر اختيارًا."
+            "ar": "الأكثر اختيارًا.",
+            "de": "Am häufigsten gewählt.",
+            "ru": "Самый популярный выбор."
           }
         },
         {
           "ad": {
             "tr": "Köfteli baget · tam",
             "en": "Meatball baguette · full",
-            "ar": "باغيت بالكفتة · كامل"
+            "ar": "باغيت بالكفتة · كامل",
+            "de": "Baguette mit Frikadellen · ganz",
+            "ru": "Багет с фрикадельками · целый"
           },
           "sure": 12,
           "fiyat": 215,
@@ -3176,14 +3892,18 @@
           "metin": {
             "tr": "Acılık isteğe göre.",
             "en": "Heat to taste.",
-            "ar": "الحرارة حسب الرغبة."
+            "ar": "الحرارة حسب الرغبة.",
+            "de": "Schärfe nach Wunsch.",
+            "ru": "Острота по желанию."
           }
         },
         {
           "ad": {
             "tr": "Zeytinyağlı sebze · tam",
             "en": "Olive-oil vegetables · full",
-            "ar": "خضار بزيت الزيتون · كامل"
+            "ar": "خضار بزيت الزيتون · كامل",
+            "de": "Gemüse in Olivenöl · komplett",
+            "ru": "Овощи в оливковом масле · полный"
           },
           "sure": 8,
           "fiyat": 150,
@@ -3191,14 +3911,18 @@
           "metin": {
             "tr": "Bitkisel.",
             "en": "Plant-based.",
-            "ar": "نباتي."
+            "ar": "نباتي.",
+            "de": "Pflanzlich.",
+            "ru": "Растительное."
           }
         },
         {
           "ad": {
             "tr": "Paylaşım bageti",
             "en": "Sharing baguette",
-            "ar": "باغيت للمشاركة"
+            "ar": "باغيت للمشاركة",
+            "de": "Teilbaguette",
+            "ru": "Багет для компании"
           },
           "sure": 15,
           "fiyat": 260,
@@ -3206,14 +3930,18 @@
           "metin": {
             "tr": "Dört dilim, iki kişilik.",
             "en": "Four pieces, for two.",
-            "ar": "أربع قطع لشخصين."
+            "ar": "أربع قطع لشخصين.",
+            "de": "Vier Stücke, für zwei Personen.",
+            "ru": "Четыре порции, на двоих."
           }
         },
         {
           "ad": {
             "tr": "Sade baget",
             "en": "Plain baguette",
-            "ar": "باغيت سادة"
+            "ar": "باغيت سادة",
+            "de": "Einfacher Baguette",
+            "ru": "Простой багет"
           },
           "sure": 2,
           "fiyat": 25,
@@ -3221,7 +3949,9 @@
           "metin": {
             "tr": "Sıcak, kese kâğıdında.",
             "en": "Warm, in a paper bag.",
-            "ar": "ساخن في كيس ورقي."
+            "ar": "ساخن في كيس ورقي.",
+            "de": "Warm, in der Papiertüte.",
+            "ru": "Горячий, в бумажном пакете."
           }
         }
       ],

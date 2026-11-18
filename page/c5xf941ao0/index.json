@@ -3,17 +3,23 @@
   "name": {
     "tr": "Menü",
     "en": "Menu",
-    "ar": "القائمة"
+    "ar": "القائمة",
+    "de": "Menü",
+    "ru": "Меню"
   },
   "description": {
     "tr": "Baget tahtası, boy seçimi ve örnek fiyatlar.",
     "en": "Baguette board, size choice and example prices.",
-    "ar": "لوح الباغيت واختيار الحجم والأسعار النموذجية."
+    "ar": "لوح الباغيت واختيار الحجم والأسعار النموذجية.",
+    "de": "Baguette-Brett, Längenwahl und Beispielpreise.",
+    "ru": "Доска для багета, выбор длины и примерные цены."
   },
   "keyword": {
     "tr": "baget, sandviç, fiyat",
     "en": "baguette, sandwich, price",
-    "ar": "باغيت، سندويش، سعر"
+    "ar": "باغيت، سندويش، سعر",
+    "de": "Baguette, Sandwich, Preis",
+    "ru": "багет, сэндвич, цена"
   },
   "path": "hizmetler",
   "icon": "restaurant_menu",
@@ -34,7 +40,9 @@
   "title": {
     "tr": "Menü",
     "en": "Menu",
-    "ar": "القائمة"
+    "ar": "القائمة",
+    "de": "Menü",
+    "ru": "Меню"
   },
   "date": "2026-11-16T20:25:22.763Z",
   "update": "2026-11-16T20:42:12.641Z"
