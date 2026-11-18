@@ -3,17 +3,23 @@
   "name": {
     "tr": "Gel-al",
     "en": "Pick-up",
-    "ar": "الاستلام"
+    "ar": "الاستلام",
+    "de": "Abholung",
+    "ru": "С собой"
   },
   "description": {
     "tr": "Gün ve saat çarkıyla gel-al siparişi (demo).",
     "en": "Pick-up order with day and time wheels (demo).",
-    "ar": "طلب استلام بعجلتي اليوم والساعة (تجريبي)."
+    "ar": "طلب استلام بعجلتي اليوم والساعة (تجريبي).",
+    "de": "Abholbestellung mit Tag-und-Uhrzeit-Rad (Demo).",
+    "ru": "Заказ с самовывозом с колесом выбора дня и времени (демо)."
   },
   "keyword": {
     "tr": "gel-al, sipariş",
     "en": "pick-up, order",
-    "ar": "استلام، طلب"
+    "ar": "استلام، طلب",
+    "de": "Abholung, Bestellung",
+    "ru": "самовывоз, заказ"
   },
   "path": "teklif-al",
   "icon": "shopping_bag",
@@ -32,7 +38,9 @@
   "title": {
     "tr": "Gel-al",
     "en": "Pick-up",
-    "ar": "الاستلام"
+    "ar": "الاستلام",
+    "de": "Abholung",
+    "ru": "С собой"
   },
   "date": "2026-11-16T20:25:22.784Z",
   "update": "2026-11-16T20:42:12.655Z"

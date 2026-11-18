@@ -2,7 +2,9 @@
   "name": {
     "tr": "Fırın",
     "en": "Bakery",
-    "ar": "المخبز"
+    "ar": "المخبز",
+    "de": "Bäckerei",
+    "ru": "Пекарня"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Fırın, kahvaltı ve tatlı rafları; misafir notları (kurgusal).",
     "en": "Bakery, breakfast and sweet shelves; guest notes (fictional).",
-    "ar": "رفوف المخبز والفطور والحلويات؛ ملاحظات الضيوف (افتراضية)."
+    "ar": "رفوف المخبز والفطور والحلويات؛ ملاحظات الضيوف (افتراضية).",
+    "de": "Regale mit Backwaren, Frühstück und Desserts; Gästenotizen (fiktiv).",
+    "ru": "Полки с выпечкой, завтраками и десертами; заметки гостей (вымышленные)."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Fırın",
     "en": "Bakery",
-    "ar": "المخبز"
+    "ar": "المخبز",
+    "de": "Bäckerei",
+    "ru": "Пекарня"
   },
   "keyword": {
     "tr": "fırın, galeri",
     "en": "bakery, gallery",
-    "ar": "مخبز، معرض"
+    "ar": "مخبز، معرض",
+    "de": "Ofen, Galerie",
+    "ru": "печь, галерея"
   },
   "text": {},
   "update": "2026-11-16T20:42:12.646Z",
